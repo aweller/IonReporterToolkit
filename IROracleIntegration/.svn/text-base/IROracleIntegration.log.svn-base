@@ -1,0 +1,16 @@
+13-02-14 16:44 root         INFO     starting api calls
+13-02-14 16:46 root         INFO     Extracting zip file Output_files/all_samples_1x.zip
+13-02-14 16:47 root         INFO     Extracting zip file Output_files/all_analyses_14.zip
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         ERROR    No sample id
+13-02-14 16:47 root         INFO     1.4 analyses done
+13-02-14 16:48 root         INFO     Extracting zip file Output_files/all_analyses_16.zip
+13-02-14 16:48 root         INFO     1.6 analyses done
+13-02-14 16:48 root         INFO     input files read and analyses object lists created
+13-02-14 16:48 root         INFO     finished

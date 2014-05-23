@@ -1,0 +1,677 @@
+IR_Version,Tumour_Sample,Normal_Sample,Analysis_Name,Workflow,Status,User,Date
+1.6,HC015_v1,,HC015_v1_1377646074594,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,cont-kit-D5_50g_v1,,cont-kit-D5_50g_v1_OX1-246_1382454090785,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-22-2013 11:05:51
+1.6,contkit-R-av-C6-50g_v1,,contkit-R-av-C6-50g_v1_OX1-261_1382979364555,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-28-2013 12:57:17
+1.6,Q2PL2_4F_T_v1,Q2PL2_4F_N_v1,Q2PL2_4F_T_v1_1383675683742,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-05-2013 13:22:16
+1.6,CB029_v1,,CB029_v1_1377617879452,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:11
+1.6,QUASAR2pl1_E07T_v1,QUASAR2pl1_E07N_v1,QUASAR2pl1_E07T_v1_1384183963202,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-11-2013 10:32:51
+1.6,G156723S_v1,,Copy of AutoLoad_1b55c3de-1bcb-4734-b792-071916271a5f,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Jan-07-2014 05:38:36
+1.6,HC060_v1,,HC060_v1_1382367497418,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,contkit-R-A4_50g_v1,,contkit-R-A4_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,contkit-R-B1_50g_v1,,contkit-R-B1_50g_v1_1383838147951,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,CB005_v1,,CB005_v1_1377606618733,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,contkit-R-B2_50g_v1,,contkit-R-B2_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,HC040_v1,,HC040_v1_1378299430713,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,G151350H_v2,,G151350H_v2_1375972609574,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,G156790D_v1,,AutoLoad_70e71f3f-4d42-4366-9b8c-2a965591ce70,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-09-2014 19:56:45
+1.6,G156939L_v1,,AutoLoad_111cbe1d-0477-4571-a7cc-43cdce90c1f5,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:09:03
+1.6,CB022_v1,,CB022_v1_1377617879449,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,F3_24024_v1,,F3_24024_v1_1380878227364,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,Q2PL3_2D_T_v1,Q2PL3_2D_N_v1,Q2PL3_2D_T_v1_aeb340ac-9f12-4cfc-97dd-55f0b5cc5630,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-18-2014 02:12:12
+1.6,G153525T_v1,,G153525T_v1_1386952674275,  NHS Oxford AmpliSeq CPv1 single sample v1,  Failed,  Suzanne Page,  Dec-13-2013 11:37:58
+1.6,G156099J_v3,,AutoLoad_60171a96-fc13-4fd2-875a-e0c2aab99920,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-14-2014 16:09:13
+1.6,Q2PL2_6A_T_v1,Q2PL2_6A_N_v1,Q2PL2_6A_T_v1_1379675240871,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,cont-kit-D3_colonlung_v1,,cont-kit-D3_colonlung_v1_OX2-232_1382605705501,  AmpliSeq colon-lung single sample - Oncomine,  Completed,  Pam Kaisaki,  Oct-24-2013 05:10:35
+1.6,VICTOR_10H_T_v1,VICTOR_10H_N_v1,VICTOR_10H_T_v1_1383058453724,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-29-2013 10:54:28
+1.6,F3_46041_v1,,F3_46041_v1_1380878227365,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,BC615-T-HP_v1,,BC615-T-HP_v1_1390921433912,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,PAR04_v1,,PAR04_v1_1387464000743,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,G130141A_v4,,G130141A_v4_1383644163517,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Nov-05-2013 04:36:13
+1.6,VICindel_10G-T_v1,VICindel_10G-N_v1,VICindel_10G-T_v1_1378722215476,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 06:23:56
+1.6,ENDO16-T-LP_v1,ENDO16-N-LP_v1,ENDO16-T-LP_v1_OX2-189_1375718263871,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-05-2013 11:58:21
+1.6,F3_24023_v1,,F3_24023_v1_1380878227364,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,QUASAR2pl1-B12T_v1,QUASAR2pl1-B12N_v1,QUASAR2pl1-B12T_v1_OX1-226_1377878526813,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,CB003_v2,,CB003_v2_1387464107201,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,G154414W_v1,,G154414W_v1_1383902751414,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:26:30
+1.6,S.Am_05T_v1,S.Am_05N_v1,S.Am_05T_v1_OX1-239_1380637337763,  TSB Tumour Normal 150 genes HP v2,  Failed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,cont-kit-D6_50g_v1,,cont-kit-D6_50g_v1_OX1-247_1382454090785,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-22-2013 11:05:51
+1.6,ENDO6r-T-LP_v1,ENDO6r-N-LP_v1,ENDO6r-T-LP_v1_OX1-208_1375884718314,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-07-2013 10:14:11
+1.6,G151945D_v1,,G151945D_v1_1381998532187,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:28:57
+1.6,G153525T_v1,,G153525T_v1_repeat,  NHS Oxford AmpliSeq CPv1 single sample v1,  Failed,  Joe_Admin Wood,  Dec-16-2013 11:57:45
+1.6,G152007V_v1,,G152007V_v1_1381998579307,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:29:43
+1.6,Q2PL2_7B_T_v1,Q2PL2_7B_N_v1,Q2PL2_7B_T_v1_1383249940432,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-31-2013 16:05:49
+1.6,contkit-C5-50g_v1,,contkit-C5-50g_v1_OX2-238_1382605897181,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,cont-kit-D6_colonlung_v1,,cont-kit-D6_colonlung_v1_OX2-233_1382605705501,  AmpliSeq colon-lung single sample - Oncomine,  Completed,  Pam Kaisaki,  Oct-24-2013 05:10:35
+1.6,G152973G_v1,,G152973G_v1_1383902481406,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,G153317Q_v1,,G153317Q_v1_1381998800582,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:33:24
+1.6,G157133F_v1,,AutoLoad_3bb68994-7735-4bfd-87cd-729cd345bee4,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:42:46
+1.6,50g-D1_v1,,50g-D1_v1_OX1-242_1381410597434,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,Q2PL2_9E_T_v1,Q2PL2_9E_N_v1,Q2PL2_9E_T_v1_1390815874529,  TSB Tumour Normal 150 genes HP v2,  Completed,  Andreas Weller,  Jan-27-2014 04:44:49
+1.6,G153124F_v2,,G153124F_v2_1383902481406,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,VICTORindels_G03-T_v1,VICTORindels_G03-N_v1,VICTORindels_G03-T_v1_1378725115826,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,CB019_v1,,CB019_v1_1377617879451,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,HC007_v1,,HC007_v1_1377646074593,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,mel4CL2-gDNAn_v1,,mel4CL2-gDNAn_v1_1386856152972,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Dec-12-2013 08:50:04
+1.6,CB052_v1,,CB052_v1_1377646074597,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,50g-D2_v1,,50g-D2_v1_OX2-224_1381410597434,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,Scont-cfD-filt_50g_v1,Scont-gDNA_50g_v1,Scont-cfD-filt_50g_v1_OX1-254_1382528053323,  AmpliSeq CHPv2 tumor-normal - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-23-2013 07:34:34
+1.6,QUASAR_B01-T_v1,QUASAR_B01-N_v1,QUASAR_B01-T_v1_1384184181081,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-11-2013 10:36:39
+1.6,HC016_v1,,HC016_v1_1377646074593,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:16
+1.6,G156632H_v1,,AutoLoad_eb57a1ea-fab5-4148-82bd-bba6d95300c5,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-07-2014 13:17:54
+1.6,G154415D_v1,,G154415D_v1_1383902751413,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:26:30
+1.6,G153317Q_v2,,G153317Q_v2_1383752886555,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 10:53:09
+1.6,G155606H_v1,,G155606H_v1_1384506797110,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,HC045_v1,,HC045_v1_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,ENDO9-T-LP_v1,ENDO9-N-LP_v1,ENDO9-T-LP_v1_OX2-187_1375717954447,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-05-2013 11:55:02
+1.6,G156616L_v1,,AutoLoad_0b64c1ab-641d-4495-b049-e511903c230a,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Jan-07-2014 13:18:03
+1.6,contkit-A6_50g_v1,,contkit-A6_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,Q2PL2_8B_T_v1,Q2PL2_8B_N_v1,Q2PL2_8B_T_v1_1381761599876,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,G156603K_v1,,AutoLoad_02d3dc64-2352-4b4a-9bd2-ef0cbf3b5a1d,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Jan-07-2014 13:17:45
+1.6,cfD-mel1_50-50_cT_v1,cfD-mel1_50-50_N_v1,cfD-mel1_50-50_cT_v1_OX2-178_1378737350728,  Oxford ctDNA AmpliSeq CPv1 tumor-normal - Oncomine,  Failed,  Pam Kaisaki,  Sep-09-2013 10:36:49
+1.6,S.Am_09T_v1,S.Am_09N_v1,S.Am_09T_v1_OX2-222_1380637337764,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,50g-RD4_v1,,50g-RD4_v1_OX2-225_1381410597434,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,G156601F_v1,,AutoLoad_9ab3ec27-9953-4c51-a1e0-928475cf39e2,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-06-2014 17:50:59
+1.6,VICTORindels_B04-T_v1,VICTORindels_B04-N_v1,VICTORindels_10B-T_v1_1388746687939,  TSB Tumour Normal 150 genes HP v6 DeletionOptimized,  Completed,  Andreas Weller,  Jan-03-2014 05:59:06
+1.6,ENDO2-T-LP_v1,ENDO2-N-LP_v1,ENDO2-T-LP_v1_OX1-197_1375196615356,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Jul-30-2013 11:05:19
+1.6,G156605V_v1,,AutoLoad_716b68a0-92be-4613-93d7-4e4d5fcbf28b,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-06-2014 17:49:51
+1.6,G130141A_v4,,G130141A_v4_1383924666469,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 10:31:40
+1.6,VICTOR7A-T-LP_v1,VICTOR7A-N-LP_v1,VICTOR7A-T-LP_v1_OX1-211_1375977192701,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-08-2013 11:55:53
+1.6,G156993H_v2,,AutoLoad_91e90537-d85b-4d4a-a773-81384530926f,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-24-2014 12:35:33
+1.6,contkit-R-av-C5-50g_v1,,contkit-R-av-C5-50g_v1_OX1-261_1382979364555,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-28-2013 12:57:17
+1.6,CB011_v2,,CB011_v2_1387464107203,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,HC050_v1,,HC050_v1_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,Q2PL2_5E_T_v1,Q2PL2_5E_N_v1,Q2PL2_5E_T_v1_1383058453724,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-29-2013 10:54:28
+1.6,Q2PL2_7A_T_v1,Q2PL2_7A_N_v1,Q2PL2_7A_T_v1_1381761599875,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,HC035_v1,,HC035_v1_1377646074595,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,G154409H_v2,,G154409H_v2_1380878227365,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,G156991N_v2,,AutoLoad_974d9501-0f3a-4f85-b851-b14dab627437,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-24-2014 12:35:24
+1.6,CB030_v1,,CB030_v1_1377617879452,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:11
+1.6,CB017_v1,,CB017_v1_1377617879448,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,CB012_v2,,CB012_v2_1387464107201,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,G150994W_v1,,G150994W_v1_1369240447688,  AmpliSeq CPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  May-22-2013 12:34:17
+1.6,QUASAR2pl1-G12T_v1,QUASAR2pl1-G12N_v1,QUASAR2pl1-G12T_v1_OX2-213_1378373682313,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Sep-05-2013 05:35:34
+1.6,CB028_v1,,CB028_v1_1377617879447,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,IBG2-LP-NFFPE_v1,IBG2-LP-Nblood_v1,IBG2-LP-Nblood_v1_91161d71-ffdd-4857-b398-f957fda198fa,  TSB Tumour Normal 150 genes LP,  Completed,  Joe_Admin Wood,  Dec-11-2013 02:30:44
+1.6,contkit-R-B5_50g_v1,,contkit-R-B5_50g_v1_1383838147951,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,G156723S_v1,,AutoLoad_1b55c3de-1bcb-4734-b792-071916271a5f,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Jan-06-2014 17:50:36
+1.6,Auto_user_OX1-167-TSB_150-Panel_version_1_349_567_IonXpress_011_v1,Auto_user_OX1-167-TSB_150-Panel_version_1_349_567_IonXpress_012_v1,QUASAR2pl1_G07_OX1-167-TSB_150-Panel_version_1_349_567_IonXpress_011_v1_1383749682864,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 09:55:52
+1.6,BC635-T-HP_v1,,BC635-T-HP_v1_1390921433913,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,VICTORindels_A04-T_v1,VICTORindels_A04-N_v1,VICTORindels_A04-T_v1_1378725115826,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,VICTOR6E-T-LP_v1,VICTOR6E-N-LP_v1,VICTOR6E-T-LP_v1_OX1-210_1375977192701,  TSB Tumour Normal 150 genes LP,  Failed,  Pam Kaisaki,  Aug-08-2013 11:55:53
+1.6,G156630N_v1,,AutoLoad_53403575-6ff1-4e04-a909-2b2399b08e4a,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-10-2014 12:51:42
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_006_v1,,C_PHD2_OX2-158-ERY-panel1_368_585_IonXpress_006_v1_1377602336422,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,Q2PL3_1G_T_v1,Q2PL3_1G_N_v1,Q2PL3_1G_T_v1_811bb885-dc3e-4d37-84d7-c18b9779e7cf,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-17-2014 03:58:53
+1.6,QUASAR2pl1_H11T_v1,QUASAR2pl1_H11N_v1,QUASAR2pl1_H11T_v1_OX1-225_1377878526812,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,Q2PL2_2F_T_v1,Q2PL2_2F_N_v1,Q2PL2_2F_T_v1_7e9a8d9e-1a13-4b6e-8eda-6ad34ccdbd74,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-16-2014 22:16:42
+1.6,G157123T_v1,,AutoLoad_da73433d-4ade-4dec-a471-c27fc4546192,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:43:45
+1.6,HC032_v1,,HC032_v1_1377646074594,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,QUASAR2pl1_A12T_v1,QUASAR2pl1_A12N_v1,QUASAR2pl1_A12T_v1_OX2-207_1377878526812,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,HC036_v1,,HC036_v1_1382367497416,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,CB050_v1,,CB050_v1_1377646074597,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,G154415D_v2,,G154415D_v2_1380878227365,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,G151945D_v2,,G151945D_v2_1375972609574,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,contkit-B6_50g_v1,,contkit-B6_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,CB047_v1,,CB047_v1_1377617879449,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,ENDO7-T-LP_v1,ENDO7-N-LP_v1,ENDO7-T-LP_v1_OX1-204_1375717954446,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-05-2013 11:55:02
+1.6,G156654L_v1,,AutoLoad_780688bc-9995-476b-8c7d-bdf9ec8d34da,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-06-2014 17:50:10
+1.6,G156993H_v1,,AutoLoad_245f1b86-51c9-4377-b26b-29baa0d721a6,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 16:22:27
+1.6,contkit-RC4-50g_v1,,contkit-RC4-50g_v1_OX1-256_1382605897182,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,HC018_v1,,HC018_v1_1377646074595,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,SAm-HP-IBG2-N_v1,,SAm-HP-IBG2-N_v1_1379085252819,  TSB Ampliseq 150 Genes HP,  Completed,  Enric Domingo,  Sep-13-2013 11:14:19
+1.6,HC039_v1,,HC039_v1_1387464209941,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:43:49
+1.6,F3_46039_v1,,F3_46039_v1_1380878227364,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,CB055_v1,,CB055_v1_1377646074594,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,HC006_v1,,HC006_v1_1387464107200,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,HC003_v1,,HC003_v1_1387464000743,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,G153493S_v1,,G153493S_v1_1381998844585,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:34:08
+1.6,CB005_v2,,CB005_v2_1387464107202,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,G156931A_v1,,AutoLoad_b65886b7-3475-4bb6-b803-a4900f317929,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:09:48
+1.6,VICTORindels_C03-T_v1,VICTORindels_C03-N_v1,VICTORindels_C03-T_v1_1378725115826,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,cont-kit-RD5_50g_v1,,cont-kit-RD5_50g_v1_OX1-246_1382454090785,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-22-2013 11:05:51
+1.6,G156099J_v1,,AutoLoad_c2d6f706-cd42-4d75-8734-b70ba3287806,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Jan-10-2014 12:51:24
+1.6,G156797X_v1,,Copy of AutoLoad_25b6423a-2f57-4917-a978-4e082140a387,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Jan-10-2014 04:42:43
+1.6,VICindel_8C-T_v1,VICindel_8C-N_v1,VICindel_8C-T_v1_IR1.6_1375283915953,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Jul-31-2013 11:20:47
+1.6,Q2PL2_9E_T_v1,Q2PL2_9E_N_v1,Q2PL2_9E_T_v1_1383218975416,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-31-2013 07:29:50
+1.6,HC012_v2,,HC012_v2_1387464107200,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,CB027_v1,,CB027_v1_1377617879450,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,Q2PL2_5H_T_v1,Q2PL2_5H_N_v1,Q2PL2_5H_T_v1_1379675240872,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,QUASAR2pl1_E10T_v1,QUASAR2pl1_E10N_v1,QUASAR2pl1_E10T_v1-caution-low-qual_OX1-232_1380714894637,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-02-2013 07:55:55
+1.6,G155603T_v1,,G155603T_v1_1384506797110,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,VICTOR_A03_T_v1,VICTOR_A03_N_v1,VICTOR_A03_T_v1_1379676522140,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:28:47
+1.6,CB043_v1,,CB043_v1_1377617879451,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,HC042_v1,,HC042_v1_1382367497418,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,HC037_v1,,HC037_v1_1382367497418,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,G153493S_v2,,G153493S_v2_1380888362477,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:06:12
+1.6,VICindel_8F-T_v1,VICindel_8F-N_v1,VICindel_8F-T_v1_1378725115824,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,CB010_v2,,CB010_v2_1387464107200,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,G130141A_v1,,G130141A_v1_1381998202307,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:23:35
+1.6,CB010_v1,,CB010_v1_1377606618734,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,G152274Y_v2,,G152274Y_v2_1375972609575,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,ENDO4-T-LP_v1,ENDO4-N-LP_v1,ENDO4-T-LP_v1_OX1-203_1375717954446,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-05-2013 11:55:02
+1.6,G156622K_v1,,AutoLoad_2a880cc9-c840-4f7c-a385-6b01befd9fc9,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-09-2014 19:57:21
+1.6,Q2PL2_6H_T_v1,Q2PL2_6H_N_v1,Q2PL2_6H_T_v1_1381762057606,  TSB Tumour Normal 150 genes HP v2,  Failed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,VICindel_8D-T_v1,VICindel_8D-N_v1,VICindel_8D-T_v1_1382110883863,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Oct-18-2013 11:41:45
+1.6,LGSOC_OMpre_Low-T_v2,LGSOC_Blood_Low-N_v2,LGSOC_OMpre_Low-T_v2_OX1-102_1385126433274,  TSB Tumour Normal 150 genes HP v2,  Failed,  Pam Kaisaki,  Nov-22-2013 08:21:22
+1.6,Q2PL2_6F_T_v1,Q2PL2_6F_N_v1,Q2PL2_6F_T_v1_1379675240871,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,Q2PL3_1F_T_v1,Q2PL3_1F_N_v1,Q2PL3_1F_T_v1_5e1aed71-dcc0-4c18-8a94-ab58093d0175,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-17-2014 03:58:03
+1.6,HC030_v1,,HC030_v1_1387464209941,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:43:49
+1.6,CB018_v1,,CB018_v1_1377617879447,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,VICTOR_B05_T_v1,VICTOR_B05_N_v1,VICTOR_B05_T_v1_1381761599876,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,VICTORindels_B04-T_v1,VICTORindels_B04-N_v1,VICTORindels_B04-T_v1_1378725115827,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,QUASAR2pl1_F09T_v1,QUASAR2pl1_F09N_v1,QUASAR2pl1_F09T_v1_1383748758283,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 09:40:12
+1.6,Q2PL2_8B_T_v1,Q2PL2_8B_N_v1,Q2PL2_8B_T_v1_1381762057607,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,HC033_v1,,HC033_v1_1377646074594,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,G156962F_v1,,AutoLoad_2dda0410-1237-4ba2-ad19-4e9bb522f480,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:09:12
+1.6,VICTOR6F-T-LP_v1,VICTOR6F-N-LP_v1,VICTOR6F-T-LP_v1_OX2-192_1375977192701,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-08-2013 11:55:53
+1.6,cont-kit-RD6_50g_v1,,cont-kit-RD6_50g_v1_OX1-247_1382454090785,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-22-2013 11:05:51
+1.6,HC057_v1,,HC057_v1_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,HC047_v1,,HC047_v1_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,G151000V_v1,,AutoLoad_e550a56f-394a-43a4-b632-8a892f00867a,  WGS Validation Somatic Ampliseq IAD50115,  Completed,  Joe_Admin Wood,  Jan-09-2014 05:34:58
+1.6,HC067_v1,,HC067_v1_1387464000743,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,Q2PL2_11A_T_v1,Q2PL2_11A_N_v1,Q2PL2_11A_T_v1_1383249940432,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-31-2013 16:05:49
+1.6,Q2PL3_1C_T_v1,Q2PL3_1C_N_v1,Q2PL3_1C_T_v1_c63c1519-8cfa-4d2c-8a2b-76ce7082c413,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-16-2014 02:06:46
+1.6,CRC485-12B-T_v1,CRC485-12A-N_v1,CRC485-12B-T_v1_1383736889631,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Nov-06-2013 06:21:39
+1.6,VICTOR6E-T_v1,VICTOR6E-N_v1,VICTOR6E-T_v1_1378725115824,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,HC065_v1,,HC065_v1_1387464000742,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,HC063_v1,,HC063_v1_1378299430713,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,contkit-C1_50g_v1,,contkit-C1_50g_v1_OX2-236_1382528156345,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-23-2013 07:37:23
+1.6,CB055_v1,,CB055_v1_1382698942674,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-25-2013 07:02:29
+1.6,VICTORindels_H03-T_v1,VICTORindels_H03-N_v1,VICindel_9H-T_v1_1382439180331,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,CB038_v1,,CB038_v1_1377617879448,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,Q2PL2_10E_T_v1,Q2PL2_10E_N_v1,Q2PL2_10E_T_v1_2a71f111-3541-4baa-854c-c5745b742798,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Dec-17-2013 21:48:32
+1.6,HC034_v1,,HC034_v1_1377646074598,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,LGSOC_OMpre-T_v1,LGSOC_Blood-N_v1,Copy of LGSOC_OMpre-T_v1_OX1-94_1385126433274,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Nov-24-2013 12:03:27
+1.6,CB006_v1,,CB006_v1_1377606618735,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,Auto_user_OX1-184-TSB_150-Panel_version_1_385_606_IonXpress_013_v1,Auto_user_OX1-184-TSB_150-Panel_version_1_385_606_IonXpress_014_v1,Q2PL2_4C_OX1-184-TSB_150-Panel_version_1_385_606_IonXpress_013_v1_1383675683743,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-05-2013 13:22:16
+1.6,G156099J_v2,,AutoLoad_7fc9d432-1059-475a-a99c-988517594556,  NHS Oxford AmpliSeq CPv1 single sample v1,  Failed,  Joe_Admin Wood,  Jan-13-2014 09:24:57
+1.6,G150999Q_v1,,G150999Q_v1_WorkshopExample,  Workshop CHP2,  Completed,  Andreas Weller,  Jan-15-2014 04:59:05
+1.6,G155589P_v1,,G155589P_v1_1384506797110,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,G156788B_v1,,AutoLoad_3fe11d4c-3934-4659-a9dd-ea9d69bea1d3,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-09-2014 19:56:37
+1.6,QUASAR2pl1_B10T_v1,QUASAR2pl1_B10N_v1,QUASAR2pl1_B10T_v1_IR1.6_OX1-193_1380643796434,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:12:15
+1.6,G156095A_v3,,AutoLoad_98fb5085-daa0-4f1d-8671-ed17787edcb1,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-14-2014 16:09:04
+1.6,G157129L_v1,,AutoLoad_2a8bdaae-3f92-4bef-b989-18167630b726,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-24-2014 12:35:58
+1.6,VICindel-7F-T_v1,VICindel-7F-N_v1,VICindel-7F-T_v1_1382439180332,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,contkit-C3_50g_v1,,contkit-C3_50g_v1_OX2-237_1382528156345,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-23-2013 07:37:23
+1.6,G151712R_v1,,G151712R_v1_1381998449302,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:27:33
+1.6,SAm-LP-IBG2-N_v1,,SAm-LP-IBG2-N_v1_1379090828426,  TSB Ampliseq 150 Genes LP,  Completed,  Enric Domingo,  Sep-13-2013 12:47:20
+1.6,HC053_v1,,HC053_v1_1378299430714,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,VICindel_10C-T_v1,VICindel_10C-N_v1,VICindel_10C-T_v1_1382109193670,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:08
+1.6,Q2PL2_6H_T_v2,Q2PL2_6H_N_v2,Q2PL2_6H_T_v2_1383155959327,  TSB Tumour Normal 150 genes HP v2,  Failed,  Carme Camps,  Oct-30-2013 13:59:30
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_002_v1,,PAR07_OX2-158-ERY-panel1_368_585_IonXpress_002_v1_1377602336421,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,Q2PL2_9B_T_v1,Q2PL2_9B_N_v1,Q2PL2_9B_T_v1_1382350352032,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-21-2013 06:12:46
+1.6,QUASAR2pl1_D11T_v1,QUASAR2pl1_D11N_v1,QUASAR2pl1_D11_v1_OX2-201_IR1.6_1376574068770,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-15-2013 09:42:40
+1.6,HC043_v1,,HC043_v1_1382367497418,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,CB033_v1,,CB033_v1_1377617879450,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,G152274Y_v1,,G152274Y_v1_1383738583034,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 06:50:06
+1.6,G153124F_v2,,G153124F_v2_1383752886554,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 10:53:09
+1.6,contkit-A4_50g_v1,,contkit-A4_50g_v1_1383838147951,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,CB002_v2,,CB002_v2_1387464107202,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,G154409H_v2,,G154409H_v2_1383902624594,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:24:36
+1.6,VICindel_10D-T_v1,VICindel_10D-N_v1,VICindel_10D-T_v1_1382439180331,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,G154395W_v1,,G154395W_v1_1383738583034,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 06:50:06
+1.6,ENDO1-T-LP_v1,ENDO1-N-LP_v1,ENDO1-T-LP_v1_OX1-196_1375196615356,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Jul-30-2013 11:05:19
+1.6,G152929P_v1,,G152929P_v1_1380888214855,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:03:47
+1.6,G152274Y_v2,,G152274Y_v2_rpt,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-09-2013 10:12:00
+1.6,CB048_v1,,CB048_v1_1377617879449,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,CB012_v1,,CB012_v1_1377606618734,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,G156627A_v2,,AutoLoad_5479884e-2d77-424c-9283-aa333954486c,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-14-2014 16:09:23
+1.6,G152929P_v1,,G152929P_v1_1383902481406,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,HC031_v1,,HC031_v1_1377646074597,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,VICTORindels_G03-T_v1,VICTORindels_G03-N_v1,VICTORindels_9G-T_v1_1382109193670,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:08
+1.6,Q2PL2_6G_T_v1,Q2PL2_6G_N_v1,Q2PL2_6G_T_v1_1379675240871,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,G155601A_v1,,G155601A_v1_1384506797111,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,IT1010-6B-T_v1,IT1010-6B-N_v1,IT1010-6B-N_v1_b3432dfd-5025-46d4-8448-84e631ae2fab,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Dec-10-2013 03:34:15
+1.6,Q2PL2_10G_T_v1,Q2PL2_10G_N_v1,Q2PL2_10G_T_v1_1383218975416,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-31-2013 07:29:50
+1.6,Auto_user_14ION09R_180_305_IonXpress_009_v1,,Auto_user_14ION09R_180_305_IonXpress_009_v1_1391084533535,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,Q2PL2_6C_T_v1,Q2PL2_6C_N_v1,Q2PL2_6C_T_v1_1381762057607,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,HC049_v1,,HC049_v1_1378299430714,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,VICindel_8B-T_v1,VICindel_8B-N_v1,VICindel_8B-T_v1_IR1.6_1375283915953,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Jul-31-2013 11:20:47
+1.6,VICTOR6A-T_v1,VICTOR6A-N_v1,VICTOR6A-T_v1_1383750576679,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Nov-06-2013 10:09:58
+1.6,CB024_v1,,CB024_v1_1377617879451,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:11
+1.6,Q2PL2_7A_T_v1,Q2PL2_7A_N_v1,Q2PL2_7A_T_v1_1381762057606,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,ENDO25-T-LP_v1,ENDO25-N-LP_v1,ENDO25-T-LP_v1_OX2-191_1375884718315,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-07-2013 10:14:11
+1.6,S.Am_07T_v1,S.Am_07N_v1,S.Am_07T_v1_OX2-221_1380637337764,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,G154414W_v2,,G154414W_v2_1383902624593,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:24:36
+1.6,S.Am_08T_v1,S.Am_08N_v1,S.Am_08T_v1_OX1-240_1380637337763,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,F3_24033_v1,,F3_24033_v1_1380878227364,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,VICTORindels_H03-T_v1,VICTORindels_H03-N_v1,VICTORindels_H03-T_v1_1378725115827,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,G151142_v2,,AutoLoad_3f0172be-6648-4c57-886b-97b3a274f64b,  WGS Validation Somatic Ampliseq IAD50115,  Completed,  Joe_Admin Wood,  Jan-10-2014 06:02:38
+1.6,HC027_v1,,HC027_v1_1377646074597,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,Q2PL3_1D_T_v1,Q2PL3_1D_N_v1,Q2PL3_1D_T_v1_8be634d7-1b71-4d51-91af-4af18d95c5d0,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-16-2014 02:12:46
+1.6,CB053_v1,,CB053_v1_1377646074596,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,VICindel_10D-T_v1,VICindel_10D-N_v1,VICindel_10D-T_v1_1378725115825,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,CRC485-12B-T_v1,CRC485-12A-N_v1,CRC485-12B-T_v1_1378725881278,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:25:45
+1.6,mel5JB-gDNA_v1,,mel5JB-gDNA_v1_1386856152971,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Dec-12-2013 08:50:04
+1.6,QUASAR2pl1_H09T_v1,QUASAR2pl1_H09N_v1,QUASAR2pl1_H09T_v1_1383757696950,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Nov-06-2013 12:08:25
+1.6,HC026_v1,,HC026_v1_1377646074592,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:16
+1.6,Q2PL2_7H_T_v1,Q2PL2_7H_N_v1,Q2PL2_7H_T_v1_1383218975416,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-31-2013 07:29:50
+1.6,G150739T_v4,,G150739T_v4_1371554544403,  AmpliSeq CCPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  Jun-18-2013 07:22:30
+1.6,G156935J_v1,,AutoLoad_f2ab934b-d6ff-453e-9611-c833bb7fe527,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:10:06
+1.6,VICindel_8F-T_v1,VICindel_8F-N_v1,VICindel_8F-T_v1_1383750690561,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Nov-06-2013 10:11:45
+1.6,F3_24031_v1,,F3_24031_v1_1380878227364,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,Q2PL2_9E_T_v1,Q2PL2_9E_N_v1,Q2PL2_9E_T_v1_1390815973664,  TSB Tumour Normal 150 genes HP v6 DeletionOptimized,  Completed,  Andreas Weller,  Jan-27-2014 04:46:17
+1.6,BC4062-T-HP_v1,,BC4062-T-HP_v1_1390921433913,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,Auto_user_OX2-169-TSB_150-Panel_version_1_390_613_IonXpress_013_v1,Auto_user_OX2-169-TSB_150-Panel_version_1_390_613_IonXpress_014_v1,QUASAR2pl1_E09_OX2-169-TSB_150-Panel_version_1_390_613_IonXpress_013_v1_1383749682864,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 09:55:52
+1.6,contkit-C4-50g_v1,,contkit-C4-50g_v1_OX1-256_1382605897181,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,VICindel_8C-T_v1,VICindel_8C-N_v1,VICindel_8C-T_v1_1382439180332,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,contkit-B2_50g_v1,,contkit-B2_50g_v1_1383838147954,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,contkit-R-B4_50g_v1,,contkit-R-B4_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,G156718G_v1,,AutoLoad_ec027998-4cf4-4bbf-9e1a-bcd10e0e64db,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-07-2014 13:18:21
+1.6,mel4CL2-cfD_filt_v1,,mel4CL2-cfD_filt_v1_1386856152970,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Dec-12-2013 08:50:04
+1.6,LGSOC_OMpre_Low-T_v2,LGSOC_Blood_Low-N_v2,Copy of LGSOC_OMpre_Low-T_v2_OX1-102_1385126433274,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Nov-24-2013 12:04:20
+1.6,G151717D_v2,,G151717D_v2_1375972609575,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,contkit-R-A5_50g_v1,,contkit-R-A5_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,Victor_A01_3_4_368_IonXpress_013_v1,Victor_A01_3_4_368_IonXpress_014_v1,VICTOR_A01_1_6_1383217667990,  TSB Tumour Normal 150 genes HP v2,  Completed,  Joe_Admin Wood,  Oct-31-2013 07:08:28
+1.6,G150739T_v7,,G150739T_v7_1375972609574,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,VICTORindels_H03-T_v1,VICTORindels_H03-N_v1,VICTORindels_9H-T_v1_1382109193671,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:09
+1.6,CB011_v1,,CB011_v1_1377606618735,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,G152973G_v2,,G152973G_v2_1383842801525,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-07-2013 11:51:53
+1.6,Auto_user_14ION09R_180_305_IonXpress_011_v1,,Auto_user_14ION09R_180_305_IonXpress_011_v1_1391084533534,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,G152274Y_v1,,G152274Y_v1_1383842801525,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-07-2013 11:51:53
+1.6,BC3008-T-HP_v1,,BC3008-T-HP_v1_1390921433913,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,IBG2-HP-NFFPE_v1,IBG2-HP-Nblood_v1,IBG2-HP-Nblood_v1_0c87da94-1af3-4dec-b03b-bd199a88aabd,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Dec-11-2013 02:15:16
+1.6,HC052_v1,,HC052_v1_1382367497416,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,Q2PL2_5F_T_v1,Q2PL2_5F_N_v1,Q2PL2_5F_T_v1_1383144383837,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-30-2013 10:49:26
+1.6,50g-RD3_v1,,50g-RD3_v1_OX1-243_1381410597435,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,G157156V_v2,,G157156V_v2_1391074219945,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,HC028_v1,,HC028_v1_1387464000744,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,HC059_v1,,HC059_v1_1378299430714,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,G154409H_v1,,G154409H_v1_1383902751414,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:26:30
+1.6,VICindel_8A-T_v1,VICindel_8A-N_v1,VICindel_8A-T_v1_1378908520556,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-11-2013 10:08:45
+1.6,Q2PL3_1H_T_v1,Q2PL3_1H_N_v1,Q2PL3_1H_T_v1_1a2f6da8-57d6-4336-b7fd-93636374846e,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:54:35
+1.6,SAm-HP-IBG2-T_v1,SAm-HP-IBG2-N_v1,SAm-HP-IBG2-T_v1_OX1-230_1378373682313,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Sep-05-2013 05:35:34
+1.6,VICindel-7F-T_v1,VICindel-7F-N_v1,VICindel-7F-T_v1_1382109193670,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:08
+1.6,G157110L_v1,,AutoLoad_020c4d2c-b15e-435e-abc9-b1e1f42f8328,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:43:28
+1.6,Q2PL2_6H_T_v1,Q2PL2_6H_N_v1,Q2PL2_6H_T_v1_1382350536795,  TSB Tumour Normal 150 genes HP v2,  Failed,  Carme Camps,  Oct-21-2013 06:15:46
+1.6,VICindel_10E-T_v1,VICindel_10E-N_v1,VICindel_10E-T_v1_1378722471880,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 06:28:12
+1.6,SAm-LP-IBG2-T_v1,SAm-LP-IBG2-N_v1,SAm-LP-IBG2-T_v1_OX2-212_1378373580417,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Sep-05-2013 05:33:30
+1.6,VICTOR7B-T_v1,VICTOR7B-N_v1,VICTOR7B-T_v1_1383737334100,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 06:29:04
+1.6,HC001_v1,,HC001_v1_1387464107202,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,HC012_v1,,HC012_v1_1377646074593,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,mel4CL2-gDNAf_v1,,mel4CL2-gDNAf_v1_1386856152971,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Dec-12-2013 08:50:04
+1.6,G153525T_v1,,G153525T_v1_repeat2,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Joe_Admin Wood,  Dec-18-2013 08:53:39
+1.6,BC4070-T-HP_v1,,BC4070-T-HP_v1_1390921433914,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,VICTOR_B05_T_v1,VICTOR_B05_N_v1,VICTOR_B05_T_v1_1381762057607,  TSB Tumour Normal 150 genes HP v2,  Failed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,contkit-R-av-C2-50g_v1,,contkit-R-av-C2-50g_v1_OX2-239_1382605897182,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,QUASAR2pl1_D07T_v1,QUASAR2pl1_D07N_v1,QUASAR2pl1_D07T_v1_1383750790890,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Nov-06-2013 10:13:47
+1.6,G153124F_v1,,G153124F_v1_1381998685076,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:31:29
+1.6,Q2PL2_6B_T_v1,Q2PL2_6B_N_v1,Q2PL2_6B_T_v1_1381762057606,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,VICindel_10C-T_v1,VICindel_10C-N_v1,VICindel_10C-T_v1_1382439180331,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,QUASAR2pl1-C12T_v1,QUASAR2pl1-C12N_v1,QUASAR2pl1-C12T_v1_OX2-208_1377878526813,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,HC021_v1,,HC021_v1_1377646074595,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,VICindel_8D-T_v1,VICindel_8D-N_v1,VICindel_8D-T_v1_1382107908199,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 10:51:59
+1.6,HC009_v1,,HC009_v1_1387464209940,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:43:49
+1.6,G157123T_v2,,G157123T_v2_1391074219946,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,G156599W_v1,,AutoLoad_8187fbca-0a24-47f1-9de1-3b0e65cf523c,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-06-2014 17:50:49
+1.6,HC008_v1,,HC008_v1_1387464209941,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:43:49
+1.6,G157112W_v2,,G157112W_v2_1391074219945,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,CB036_v1,,CB036_v1_1377617879446,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,G153141W_v1,,G153141W_v1_1381998723029,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:32:09
+1.6,PAR10_v1,,PAR10_v1_1378299430714,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,CB034_v1,,CB034_v1_1377617879447,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,G156095A_v2,,Copy of AutoLoad_392f4bd0-34a8-402c-81d0-153ee8c4daa6,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Jan-13-2014 10:16:51
+1.6,VICindel_10G-T_v1,VICindel_10G-N_v1,VICindel_10G-T_v1_1382360082948,  TSB Tumour Normal 150 genes HP v4 LowStringency CHP2_Amplicons,  Completed,  Andreas Weller,  Oct-21-2013 08:54:48
+1.6,G151438Y_v2,,G151438Y_v2_1387281098051,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Dec-17-2013 06:51:42
+1.6,contkit-B5_50g_v1,,contkit-B5_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Failed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,Q2PL2_5A_T_v1,Q2PL2_5A_N_v1,Q2PL2_5A_T_v1_1383675683742,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-05-2013 13:22:16
+1.6,G153493S_v2,,G153493S_v2_1383902481406,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,Auto_user_OX1-183-TSB_150-Panel_version_1_381_604_IonXpress_013_v1,Auto_user_OX1-183-TSB_150-Panel_version_1_381_604_IonXpress_014_v1,Q2PL2_4A_OX1-183-TSB_150-Panel_version_1_381_604_IonXpress_013_v1_1383675683743,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-05-2013 13:22:16
+1.6,G152007V_v2,,G152007V_v2_1375972609575,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,ENDO24-T-LP_v1,ENDO24-N-LP_v1,ENDO24-T-LP_v1_OX1-209_1375884718318,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-07-2013 10:14:11
+1.6,VICTORindels_E03-T_v1,VICTORindels_E03-N_v1,VICTORindels_9E-T_v1_1382109193671,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:09
+1.6,G156616L_v2,,G156616L_v2_1389197779618,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Jan-08-2014 11:16:25
+1.6,CB004_v2,,CB004_v2_1387464107202,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,VICTOR_B05_T_v1,VICTOR_B05_N_v1,VICTOR_B05_T_v1_1382350536795,  TSB Tumour Normal 150 genes HP v2,  Failed,  Carme Camps,  Oct-21-2013 06:15:46
+1.6,Q2PL2_9H_T_v1,Q2PL2_9H_N_v1,Q2PL2_9H_T_v1_1383144383837,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-30-2013 10:49:26
+1.6,PAR03_v1,,PAR03_v1_1387464000742,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,contkit-R-A1_50g_v1,,contkit-R-A1_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,QUASAR2pl1_B11T_v1,QUASAR2pl1_B11N_v1,QUASAR2pl1_B11_v1_OX2-200_IR1.6_1376574068770,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-15-2013 09:42:40
+1.6,50g-RD1_v1,,50g-RD1_v1_OX1-242_1381410597435,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,Auto_user_14ION09R_180_305_IonXpress_049_v1,,Auto_user_14ION09R_180_305_IonXpress_049_v1_1391084533535,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,G151142_v1,,AutoLoad_e28e3599-525f-4100-a595-e6bd05e4abfe,  WGS Validation Somatic Ampliseq IAD50115,  Completed,  Joe_Admin Wood,  Jan-09-2014 13:39:44
+1.6,HC029_v1,,HC029_v1_1377646074595,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,G156726J_v1,,AutoLoad_de2f9d36-0213-47f9-b70d-102c65081ea3,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-07-2014 13:18:39
+1.6,CB001_v2,,CB001_v2_1387464107201,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,VICindel-7E-T_v1,VICindel-7E-N_v1,VICindel-7E-T_v1_1382439180331,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,CB002_v1,,CB002_v1_1377606618732,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,G156613H_v1,,AutoLoad_f9c5d6f8-4f2c-47fb-afaa-f859115200e3,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-06-2014 17:49:59
+1.6,HC041_v1,,HC041_v1_1382367497416,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,G157133F_v2,,G157133F_v2_1391074219945,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,QUASAR2pl1_B06_T_reupload1,QUASAR2pl1_B06_N_reupload1,QUASAR2pl1_B06_T_reupload1_1389196822359,  TSB Tumour Normal 150 genes HP v2,  Completed,  Andreas Weller,  Jan-08-2014 11:00:27
+1.6,VICTOR_B02_T_v1,VICTOR_B02_N_v1,VICTOR_B02_T_v1_1379675240872,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,G151711H_v1,,G151711H_v1_1381998388502,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:26:32
+1.6,G156796Y_v1,,AutoLoad_44390087-104a-4d0b-80df-a4382cdd27ef,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-09-2014 19:57:03
+1.6,G152973G_v1,,G152973G_v1_1380888214855,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:03:47
+1.6,HC031_v2,,HC031_v2_1387464000744,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,PAR01_v1,,PAR01_v1_1378299430715,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,IT1010-6A-T_v1,IT1010-6A-N_v1,IT1010-6A-N_v1_5277312c-ea64-4da6-a58f-5133e5980d38,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Dec-10-2013 03:14:46
+1.6,G154395W_v2,,G154395W_v2_1383902624594,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:24:36
+1.6,G154395W_v2,,G154395W_v2_1380878227365,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,G153141W_v2,,G153141W_v2_1383752886555,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 10:53:09
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_004_v1,,PAR11_OX2-158-ERY-panel1_368_585_IonXpress_004_v1_1377602336421,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,G153124F_v2,,G153124F_v2_1380888214855,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:03:47
+1.6,G151438Y_v2,,G151438Y_v2_1388746128474,  NHS Oxford AmpliSeq CHPv2 single sample v4 DeletionOptimized,  Failed,  Andreas Weller,  Jan-03-2014 05:48:57
+1.6,VICTORindels_F03-T_v1,VICTORindels_F03-N_v1,VICTORindels_F03-T_v1_1378725115827,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,13.ION.010_3_4_2_180_IonXpress_051_v1,,G130141A_13ION010_16_v1_1382538991118,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Joe_Admin Wood,  Oct-23-2013 10:37:09
+1.6,G150739T_v4,,G150739T_v4_1371557141684,  AmpliSeq CPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  Jun-18-2013 08:05:49
+1.6,LGSOC_OMpre_Low-T_v1,LGSOC_Blood_Low-N_v1,LGSOC_OMpre_Low-T_v1_OX1-99_1385126433274,  TSB Tumour Normal 150 genes HP v2,  Failed,  Pam Kaisaki,  Nov-22-2013 08:21:22
+1.6,cont-kit-D4_colonlung_v1,,cont-kit-D4_colonlung_v1_OX2-233_1382605705501,  AmpliSeq colon-lung single sample - Oncomine,  Completed,  Pam Kaisaki,  Oct-24-2013 05:10:35
+1.6,G153141W_v2,,G153141W_v2_1380888214855,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:03:47
+1.6,VICindel_10D-T_v1,VICindel_10D-N_v1,VICindel_10D-T_v1_1382109193670,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:08
+1.6,G154415D_v1,,G154415D_v1_1383738583034,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 06:50:06
+1.6,Q2PL2_8A_T_v1,Q2PL2_8A_N_v1,Q2PL2_8A_T_v1_1382028530482,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-17-2013 12:49:09
+1.6,HC048_v1,,HC048_v1_1378299430715,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,VICTOR6F-T_v1,VICTOR6F-N_v1,VICTOR6F-T_v1_1378725115824,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,G130141A_v2,,G130141A_v2_1386153428360,  NHS Oxford AmpliSeq CHPv2 single sample v4 DeletionOptimized,  Completed,  Andreas Weller,  Dec-04-2013 05:37:17
+1.6,contkit-R-A2_50g_v1,,contkit-R-A2_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,G156719V_v1,,G156719V_v1_1389095768783,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Jan-07-2014 06:56:13
+1.6,G154415D_v2,,G154415D_v2_1383902624594,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:24:36
+1.6,QUASAR2pl1-D12T_v1,QUASAR2pl1-D12N_v1,QUASAR2pl1-D12T_v1_OX1-227_1377878526813,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,VICindel-7C-T_v1,VICindel-7C-N_v1,VICindel-7C-T_v1_1378725115825,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,Auto_user_14ION09R_180_305_IonXpress_010_v1,,Auto_user_14ION09R_180_305_IonXpress_010_v1_1391084533535,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,QUASAR2pl1_G10T_v1,QUASAR2pl1_G10N_v1,QUASAR2pl1_G10T_v1_IR1.6_OX1-217_1380643796434,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:12:15
+1.6,contkit-A2_50g_v1,,contkit-A2_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,VICTORindels_A04-T_v1,VICTORindels_A04-N_v1,VICTORindels_10A-T_v1_1388746687938,  TSB Tumour Normal 150 genes HP v6 DeletionOptimized,  Completed,  Andreas Weller,  Jan-03-2014 05:59:06
+1.6,G156095A_v1,,AutoLoad_2834de13-aeec-40d1-884a-4c43921327ca,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-10-2014 12:51:16
+1.6,QUASAR2pl1_F10T_v1,QUASAR2pl1_F10N_v1,QUASAR2pl1_F10T_v1_IR1.6_OX2-177_1380643796434,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:12:15
+1.6,contkit-R-A3_50g_v1,,contkit-R-A3_50g_v1_1383838147951,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,G150994W_v1,,G150994W_v1_1369236776188,  AmpliSeq CCPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  May-22-2013 11:33:04
+1.6,CB041_v1,,CB041_v1_1377617879448,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,Q2PL2_5H_T_v1,Q2PL2_5H_N_v1,Q2PL2_5H_T_v1_1386243191276,  TSB Tumour Normal 150 genes HP FullAnnotation,  Completed,  Andreas Weller,  Dec-05-2013 06:33:20
+1.6,Q2PL2_6E_T_v1,Q2PL2_6E_N_v1,Q2PL2_6E_T_v1_1381761599876,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,G157148L_v1,,AutoLoad_d8976c7d-41cf-4915-9136-504e628d81e0,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:43:03
+1.6,QUASAR2_E03-T_v1,QUASAR2_E03-N_v1,QUASAR2_E03-T_v1_1384184104121,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-11-2013 10:35:11
+1.6,CRC2093_T_v1,CRC2093_N_v1,CRC2093_T_v1_1378731935789,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 09:05:45
+1.6,CB008_v1,,CB008_v1_1377606618735,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,G131213L_v1,,G131213L_v1_1388746128474,  NHS Oxford AmpliSeq CHPv2 single sample v4 DeletionOptimized,  Completed,  Andreas Weller,  Jan-03-2014 05:48:57
+1.6,QUASAR2pl1_D07T_v1,QUASAR2pl1_D07N_v1,QUASAR2pl1_D07T_v1_1369143591860,  TSB Tumour Normal 150 genes HP,  Failed,  Joe_Admin Wood,  May-21-2013 09:40:01
+1.6,VICindel_8C-T_v1,VICindel_8C-N_v1,VICindel_8C-T_v1_1382109193671,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:08
+1.6,Q2PL3_1B_T_v1,Q2PL3_1B_N_v1,Q2PL3_1B_T_v1_899cc4bf-4d66-42e3-9b10-0fbe00e98ee1,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-15-2014 20:46:20
+1.6,CB040_v1,,CB040_v1_1377617879448,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,VICindel-7E-T_v1,VICindel-7E-N_v1,VICindel-7E-T_v1_1378725115824,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,HC017_v1,,HC017_v1_1377646074597,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,G125149H_v1,,G125149H_v1_1383644163517,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Nov-05-2013 04:36:13
+1.6,G157125J_v1,,AutoLoad_8b385d06-ec36-4776-a2ac-ed8936f0b2f3,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-24-2014 12:35:50
+1.6,QUASAR2pl1_A10T_v1,QUASAR2pl1_A10N_v1,QUASAR2pl1_A10T_v1_IR1.6_OX2-174_1380643796433,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:12:15
+1.6,G151372L_v1,,G151372L_v1_1369240447688,  AmpliSeq CPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  May-22-2013 12:34:17
+1.6,G157148L_v2,,G157148L_v2_1391074219945,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,CB039_v1,,CB039_v1_1377617879446,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,cfD-melWL-cT_v1,,cfD-melWL-cT_v1_NHSsinglesample_IR1.6_1375708051647,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Pam Kaisaki,  Aug-05-2013 09:08:01
+1.6,VICTORindels_A07-T_v1,VICTORindels_A02-N_v1,VICTORindels_A07-T_v1_1378725115827,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,HC054_v1,,HC054_v1_1387464209940,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:43:49
+1.6,HC064_v1,,HC064_v1_1387464000742,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,Q2PL2_10A_T_v1,Q2PL2_10A_N_v1,Q2PL2_10A_T_v1_1383144383838,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-30-2013 10:49:26
+1.6,contkit-A5_50g_v1,,contkit-A5_50g_v1_1383838147953,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,PM_v1,,PM_v1_1377646074595,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,contkit-C6-50g_v1,,contkit-C6-50g_v1_OX1-257_1382605897181,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,G153312W_v2,,G153312W_v2_1383902481407,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,G153141W_v2,,G153141W_v2_1383902481406,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,contkit-R-A6_50g_v1,,contkit-R-A6_50g_v1_1383838147954,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,G126126X_v1,,G126126X_v1_mel4_1386765796895,  AmpliSeq CPv1 single sample - Oncomine 1_6_2,  NOT STARTED,  Pam Kaisaki,  Dec-11-2013 07:43:46
+1.6,QUASAR2pl1_G10T_v1,QUASAR2pl1_G10N_v1,QUASAR2pl1_G10T_v1_OX1-217_IR1.6_1376480781376,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-14-2013 07:48:04
+1.6,G152929P_v2,,G152929P_v2_1383739393211,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 07:06:12
+1.6,Q2PL2_5D_T_v1,Q2PL2_5D_N_v1,Q2PL2_5D_T_v1_1383058453724,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-29-2013 10:54:28
+1.6,Q2PL2_4F_T_v1,Q2PL2_4F_N_v1,Q2PL2_4F_T_v1_1383736946864,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Nov-06-2013 06:22:38
+1.6,CB031_v1,,CB031_v1_1377617879450,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,G152973G_v2,,G152973G_v2_1383739393211,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 07:06:12
+1.6,Q2PL2_8H_T_v1,Q2PL2_8H_N_v1,Q2PL2_8H_T_v1_1382350352032,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-21-2013 06:12:46
+1.6,HC038_v1,,HC038_v1_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,VICindel-7D-T_v1,VICindel-7D-N_v1,VICindel-7D-T_v1_1378725115825,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,HC004_v1,,HC004_v1_1377646074593,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:16
+1.6,QUASAR2pl1_D10T_v1,QUASAR2pl1_D10N_v1,QUASAR2pl1_D10T_v1_IR1.6_OX1-195_1380643796434,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:12:15
+1.6,CB007_v2,,CB007_v2_1387464107201,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,HC058_v1,,HC058_v1_1378299430715,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,QUASAR2pl1_D07T_v1,QUASAR2pl1_D07N_v1,QUASAR2pl1_D07T_v1_1369143591860_rpt,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  May-21-2013 11:02:21
+1.6,contkit-R-av-C3-50g_v1,,contkit-R-av-C3-50g_v1_OX1-260_1382979364555,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-28-2013 12:57:17
+1.6,HC066_v1,,HC066_v1_1387464000743,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,VICindel_8H-T_v1,VICindel_8H-N_v1,VICindel_8H-T_v1_1378725115825,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,Q2PL3_2A_T_v1,Q2PL3_2A_N_v1,Q2PL3_2A_T_v1_50522e12-c628-4604-b3b0-0aec205b6ad6,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-17-2014 21:13:24
+1.6,HC025_v1,,HC025_v1_1377646074597,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,contkit-RC3_50g_v1,,contkit-RC3_50g_v1_OX2-237_1382528156345,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-23-2013 07:37:23
+1.6,Q2PL2_6H_T_v1,Q2PL2_6H_N_v1,Q2PL2_6H_T_v1_1381761599875,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,G157156V_v1,,AutoLoad_d107df17-4ea1-4eb0-b562-98fbde3e8701,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:43:20
+1.6,G152929P_v2,,G152929P_v2_1383842801525,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-07-2013 11:51:53
+1.6,mel4CL2-cfD_neat_v1,,mel4CL2-cfD_neat_v1_1386856152971,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Dec-12-2013 08:50:04
+1.6,Q2PL2_8C_T_v1,Q2PL2_8C_N_v1,Q2PL2_8C_T_v1_1382028530482,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-17-2013 12:49:08
+1.6,HC013_v1,,HC013_v1_1377646074596,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,Q2PL3_1A_T_v1,Q2PL3_1A_N_v1,Q2PL3_1A_T_v1_63fae123-6547-4581-9392-bc50259350cc,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-15-2014 20:58:11
+1.6,S.Am-4T_v1,S.Am-4N_v1,S.Am-4T_v1_OX2-215_1380637337763,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,G156603K_v1,,G156603K_v1_1389188671553,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Suzanne Page,  Jan-08-2014 08:44:38
+1.6,G153317Q_v2,,G153317Q_v2_1383902481407,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,contkit-A3_50g_v1,,contkit-A3_50g_v1_1383838147954,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,50g-D3_v1,,50g-D3_v1_OX1-243_1381410597435,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,mel5JB-neat-cfD_v1,,mel5JB-neat-cfD_v1_1386856152971,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Dec-12-2013 08:50:04
+1.6,QUASAR2pl1-F12T_v1,QUASAR2pl1-F12N_v1,QUASAR2pl1-F12T_v1_OX1-231_1378373682314,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Sep-05-2013 05:35:34
+1.6,G156099J_v2,,G156099J_v2_1389627934437,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Jan-13-2014 10:45:39
+1.6,VICTORindels_E03-T_v1,VICTORindels_E03-N_v1,VICTORindels_E03-T_v1_1378725115826,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,HC024_v1,,HC024_v1_1377646074596,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,G152778L_v1,,G152778L_v1_1381998612835,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:30:16
+1.6,G157141S_v2,,G157141S_v2_1391074219944,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,G156099J_v2,,Copy of AutoLoad_7fc9d432-1059-475a-a99c-988517594556,  NHS Oxford AmpliSeq CPv1 single sample v1,  Failed,  Suzanne Page,  Jan-13-2014 10:17:49
+1.6,G152274Y_v2,,Copy of G152274Y_v2_1375972609575,  NHS Oxford AmpliSeq CPv1 single sample v1,  Paused,  Joe_Admin Wood,  Aug-09-2013 10:06:12
+1.6,G154395W_v1,,G154395W_v1_1383902751413,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:26:30
+1.6,Q2PL2_5C_T_v1,Q2PL2_5C_N_v1,Q2PL2_5C_T_v1_1379675240871,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,G151350H_v1,,G151350H_v1_1381998276675,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:24:41
+1.6,G152778L_v2,,G152778L_v2_1383902481406,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-08-2013 04:21:54
+1.6,Q2PL3_2B_T_v1,Q2PL3_2B_N_v1,Q2PL3_2B_T_v1_81a45eaf-9507-4d5b-9af4-5985aec892fd,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-17-2014 21:04:58
+1.6,G130141A_v4_reupload,,G130141A_v4_reupload_1388741898497,  NHS Oxford AmpliSeq CHPv2 single sample v4 DeletionOptimized,  Completed,  Andreas Weller,  Jan-03-2014 04:38:24
+1.6,VICTOR6B-T_v1,VICTOR-6B-N_v1,VICTOR6B-T_v1_1383737440339,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 06:30:45
+1.6,CB001_v1,,CB001_v1_1377606618733,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,VICindel-8E-T_v1,VICindel-8E-N_v1,VICindel-8E-T_v1_1378725115825,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,CB046_v1,,CB046_v1_1377617879449,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,LGSOC_OVR1post-T_v1,LGSOC_Blood_Low-N_v1,LGSOC_OVR1post-T_v3_OX2-97_1375196498647,  TSB Tumour Normal 150 genes HP v2,  Failed,  Pam Kaisaki,  Jul-30-2013 11:01:59
+1.6,G156997B_v2,,AutoLoad_1eb46ac2-9be3-4140-a595-a26f35ca6d4d,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-24-2014 12:35:41
+1.6,VICindel_7H-T_v1,VICindel_7H-N_v1,VICindel_7H-T_v1_OX1-198_1375368197391,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-01-2013 10:45:04
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_005_v1,,C_EPOR_OX2-158-ERY-panel1_368_585_IonXpress_005_v1_1377602336421,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,G156627A_v1,,AutoLoad_644e0602-1051-4289-8bdc-29ff3bcf57b8,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-10-2014 12:51:33
+1.6,CB007_v1,,CB007_v1_1377606618735,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,G151712R_v3,,G151712R_v3_1375972609575,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,Auto_user_14ION09R_180_305_IonXpress_024_v1,,Auto_user_14ION09R_180_305_IonXpress_024_v1_1391084533535,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,Q2PL2_8F_T_v1,Q2PL2_8F_N_v1,Q2PL2_8F_T_v1_1382028530482,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-17-2013 12:49:08
+1.6,HC014_v1,,HC014_v1_1377646074596,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,Q2PL2_5G_T_v1,Q2PL2_5G_N_v1,Q2PL2_5G_T_v1_1379675240871,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,G156719V_v1,,AutoLoad_8efd8b17-f36b-40e9-ac89-8435c561fbc9,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Jan-06-2014 17:50:28
+1.6,CB006_v2,,CB006_v2_1387464107200,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,G157157Y_v1,,AutoLoad_646e8db2-06c4-4915-b13f-68670cad4c6a,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:43:11
+1.6,CB016_v2,,CB016_v2_1387464000742,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,S.Am_05T_v1,S.Am_05N_v1,Copy of S.Am_05T_v1_OX1-239_1380637337763,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:15:49
+1.6,HC023_v1,,HC023_v1_1377646074596,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,IBG2-LP-NFFPE_v1,,IBG2-LP-NFFPE_v1_1386776374793,  TSB Ampliseq 150 Genes LP,  Completed,  Enric Domingo,  Dec-11-2013 10:39:39
+1.6,G152778L_v2,,G152778L_v2_1383752886554,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 10:53:09
+1.6,Q2P2-3G-T-LP_v1,Q2P2-3G-N-LP_v1,Q2P2-3G-LP_v1_OX2-198_IR1.6_1376481065596,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-14-2013 07:52:04
+1.6,VICindel_10F-T_v1,VICindel_10F-N_v1,VICindel_10F-T_v1_1382439180332,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,VICTOR6E-T-LP_v1,VICTOR6E-N-LP_v1,VICTOR6E-LP_v2_OX1-210_1376048668671,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-09-2013 07:45:07
+1.6,G156277D_v1,,AutoLoad_70574a91-29fa-47e1-8d2c-c77940f7b50f,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 16:22:45
+1.6,VICindel_10C-T_v1,VICindel_10C-N_v1,VICindel_10C-T_v1_1378725115824,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,Q2PL2_10A_T_v1,Q2PL2_10A_N_v1,Q2PL2_10A_T_v1_1383736793594,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Nov-06-2013 06:20:09
+1.6,HC011_v1,,HC011_v1_1377646074595,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_001_v1,,PAR12_OX2-158-ERY-panel1_368_585_IonXpress_001_v1_1377602336421,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,CB003_v1,,CB003_v1_1377606618735,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,HC062_v1,,HC062_v1_1378299430715,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,G153317Q_v2,,G153317Q_v2_1380888362478,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:06:12
+1.6,50g-RD2_v1,,50g-RD2_v1_OX2-224_1381410597435,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,G151349J_vcf,,G151349J_vcf_1369388118571,  Annotate variants from VCF - Oncomine,  Completed,  Joe_Admin Wood,  May-24-2013 05:35:24
+1.6,G154414W_v2,,G154414W_v2_1380878227365,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 05:17:33
+1.6,G155588R_v1,,G155588R_v1_1384506797111,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,G130141A_v2,,G130141A_v2_1380888362478,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:06:12
+1.6,cont-kit-D5_colonlung_v1,,cont-kit-D5_colonlung_v1_OX2-233_1382605705502,  AmpliSeq colon-lung single sample - Oncomine,  Completed,  Pam Kaisaki,  Oct-24-2013 05:10:35
+1.6,F3_66006_v1,,F3_66006_v1_1383644163518,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Nov-05-2013 04:36:13
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_008_v1,,C_VHL_OX2-158-ERY-panel1_368_585_IonXpress_008_v1_1377602336420,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,HC046_v1,,HC046_v1_1378299430715,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,HC005_v1,,HC005_v1_1378299430714,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,VICTORindels_A03-T_v1,VICTORindels_A03-N_v1,VICTORindels_A03-T_v1_1378725115826,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,contkit-A1_50g_v1,,contkit-A1_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,QUASAR2pl1_C11T_v1,QUASAR2pl1_C11N_v1,QUASAR2pl1_C11_v1_OX1-219_IR1.6_1376574068770,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-15-2013 09:42:40
+1.6,VICTORindels_A04-T_v1,VICTORindels_A04-N_v1,VICTORindels_10A-T_v1_1388755744011,  TSB Tumour Normal 150 genes HP v7 LongDeletionOptimized_494,  Completed,  Andreas Weller,  Jan-03-2014 08:29:21
+1.6,G150818H_v1,,G150818H_v1_1_6,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Joe_Admin Wood,  Dec-18-2013 11:14:39
+1.6,Q2PL2_9C_T_v1,Q2PL2_9C_N_v1,Q2PL2_9C_T_v1_1382350352032,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-21-2013 06:12:46
+1.6,CB013_v1,,CB013_v1_1377606618733,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,VICTORindels_E03-T_v1,VICTORindels_E03-N_v1,VICTORindels_9E-T_v1_1388746687939,  TSB Tumour Normal 150 genes HP v6 DeletionOptimized,  Completed,  Andreas Weller,  Jan-03-2014 05:59:06
+1.6,QUASAR2pl1_F11T_v1,QUASAR2pl1_F11N_v1,QUASAR2pl1_F11T_v1_OX1-224_1377878526812,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,BC4078-T-HP_v1,,BC4078-T-HP_v1_1390921433913,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,Q2PL2_10F_T_v1,Q2PL2_10F_N_v1,Q2PL2_10F_T_v1_1383218975416,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-31-2013 07:29:50
+1.6,HC051_v1,,HC051_v1_1382367497418,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,G154414W_v1,,G154414W_v1_1383738583034,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 06:50:06
+1.6,G150739T_v3,,G150739T_v3_1371557141684,  AmpliSeq CPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  Jun-18-2013 08:05:49
+1.6,G153493S_v2,,G153493S_v2_1383752886554,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 10:53:09
+1.6,PAR13_v1,,PAR13_v1_1378299430713,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,G151945D_v2,,Copy of G151945D_v2_1375972609574,  NHS Oxford AmpliSeq CPv1 single sample v1,  Paused,  Joe_Admin Wood,  Aug-09-2013 10:04:52
+1.6,G153312W_v1,,G153312W_v1_1381998765597,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:32:49
+1.6,QUASAR2pl1_D07T_v1,QUASAR2pl1_D07N_v1,Copy of QUASAR2pl1_D07T_v1_1369143591860_rpt,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 09:23:16
+1.6,S.Am_02T_v1,S.Am_02N_v1,S.Am_02T_v1_OX1-238_1380637337764,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,HC061_v1,,HC061_v1_1378299430714,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,G157110L_v2,,G157110L_v2_1391074219945,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,contkit-RC5-50g_v1,,contkit-RC5-50g_v1_OX2-238_1382605897181,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,G157141S_v1,,AutoLoad_205c0b0c-6803-4e15-a09d-3f69040f42c0,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:42:54
+1.6,Auto_user_OX2-156-TSB_150-Panel_version_1_363_581_IonXpress_004_v1,Auto_user_OX2-156-TSB_150-Panel_version_1_363_581_IonXpress_003_v1,VICTORindels-G03-Auto_user_OX2-156-TSB_150-Panel_version_1_363_581_IonXpress_004_v1_1372254369471,  TSB Tumour Normal 150 genes HP,  Completed,  Kulvinder  Kaur,  Jun-26-2013 09:46:37
+1.6,S.Am_03T_v1,S.Am_03N_v1,S.Am_03T_v1_OX2-220_1380637337763,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,CB013_v2,,CB013_v2_1387464000744,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,G155590L_v1,,G155590L_v1_1384506797110,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,CB015_v1,,CB015_v1_1377606618734,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,CB009_v1,,CB009_v1_1377606618735,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,VICTOR6A-T_v1,VICTOR6A-N_v1,VICTOR6A-T_v1_1383737233757,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 06:27:39
+1.6,G156602G_v1,,AutoLoad_417dcca6-9a0c-45d7-99e7-938777d2646e,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-07-2014 13:17:36
+1.6,contkit-RC6-50g_v1,,contkit-RC6-50g_v1_OX1-257_1382605897181,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,QUASAR2pl1-E12T_v1,QUASAR2pl1-E12N_v1,QUASAR2pl1-E12T_v1_OX2-209_1377878526813,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,BC709-T-HP_v1,,BC709-T-HP_v1_1390921433912,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,G130141A_v4,,G130141A_v4_1385996479268,  NHS Oxford AmpliSeq CHPv2 single sample v3 Kmer14,  Completed,  Andreas Weller,  Dec-02-2013 10:01:28
+1.6,VICTORindels_E03-T_v1,VICTORindels_E03-N_v1,VICindel_9E-T_v1_1382439180331,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,Auto_user_14ION09R_180_305_IonXpress_054_v1,,Auto_user_14ION09R_180_305_IonXpress_054_v1_1391084533535,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,G156795V_v1,,AutoLoad_38699414-badf-4a0a-a831-1c46d4449985,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-09-2014 19:56:54
+1.6,CB035_v1,,CB035_v1_1377617879451,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,Q2PL2_7E_T_v1,Q2PL2_7E_N_v1,Q2PL2_7E_T_v1_9750cc15-2bd8-4db8-948a-5e84f63939e7,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Dec-11-2013 18:51:35
+1.6,VICindel-7E-T_v1,VICindel-7E-N_v1,VICindel-7E-T_v1_1382109193671,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:09
+1.6,Q2PL2_9A_T_v1,Q2PL2_9A_N_v1,Q2PL2_9A_T_v1_1382350352032,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-21-2013 06:12:46
+1.6,PAR05_v1,,PAR05_v1_1378299430713,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_007_v1,,C_HIF_OX2-158-ERY-panel1_368_585_IonXpress_007_v1_1377602336421,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,contkit-B1_50g_v1,,contkit-B1_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,G151717D_v1,,G151717D_v1_1381998493567,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Oct-17-2013 04:28:16
+1.6,G156991D_v1,,AutoLoad_6d6ae9db-72f2-4b8a-b0cb-7d8c192a0a18,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 16:22:18
+1.6,QUASAR2pl1-G12T_v1,QUASAR2pl1-G12N_v1,QUASAR2pl1-G12T_v1_1383748758283,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 09:40:12
+1.6,VICindel_8A-T_v1,VICindel_8A-N_v1,VICindel_8A-T_v1_OX2-180_1375368197391,  TSB Tumour Normal 150 genes HP v2,  Failed,  Pam Kaisaki,  Aug-01-2013 10:45:04
+1.6,LGSOC_OVR1post-T_v1,LGSOC_Blood-N_v1,LGSOC_OVR1post-T_v1_1375109785513,  TSB Tumour Normal 150 genes HP,  Completed,  Pam Kaisaki,  Jul-29-2013 10:56:43
+1.6,QUASAR2pl1_C10T_v1,QUASAR2pl1_C10N_v1,QUASAR2pl1_C10T_v1_IR1.6_OX2-175_1380643796434,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:12:15
+1.6,cfD-melWL-cT_v1,cfD-melWL-N_v1,cfD-melWL-cT_v1_OX1-202_1378737350728,  Oxford ctDNA AmpliSeq CPv1 tumor-normal - Oncomine,  Failed,  Pam Kaisaki,  Sep-09-2013 10:36:49
+1.6,Q2PL2_7G_T_v1,Q2PL2_7G_N_v1,Q2PL2_7G_T_v1_1381761599876,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,G150739T_v3,,G150739T_v3_1371554544403,  AmpliSeq CCPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  Jun-18-2013 07:22:30
+1.6,CB020_v1,,CB020_v1_1377617879447,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,F3_63008_v1,,F3_63008_v1_1383644163518,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Nov-05-2013 04:36:13
+1.6,G125149H_v1,,G125149H_v1_1386153428360,  NHS Oxford AmpliSeq CHPv2 single sample v4 DeletionOptimized,  Completed,  Andreas Weller,  Dec-04-2013 05:37:17
+1.6,G151711H_v2,,G151711H_v2_1375972609574,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-08-2013 10:44:49
+1.6,Q2PL2_6C_T_v1,Q2PL2_6C_N_v1,Q2PL2_6C_T_v1_1381761599875,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,VICTORindels_C07-T_v1,VICTORindels_C02-N_v1,VICTORindels_C07-T_v1_1378725115827,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,ENDO18-T-LP_v1,ENDO18-N-LP_v1,ENDO18-T-LP_v1_OX2-190_1375884718317,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-07-2013 10:14:11
+1.6,VICTORindels_G03-T_v1,VICTORindels_G03-N_v1,VICTORindels_9G-T_v1_1388746687938,  TSB Tumour Normal 150 genes HP v6 DeletionOptimized,  Completed,  Andreas Weller,  Jan-03-2014 05:59:06
+1.6,BC451-T-HP_v1,,BC451-T-HP_v1_1390921433914,  TSB Ampliseq 150 Genes HP,  Completed,  Pam Kaisaki,  Jan-28-2014 10:04:21
+1.6,Auto_user_OX2-158-ERY-panel1_368_585_IonXpress_003_v1,,PAR02_OX2-158-ERY-panel1_368_585_IonXpress_003_v1_1377602336421,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 07:23:43
+1.6,ENDO8-T-LP_v1,ENDO8-N-LP_v1,ENDO8-T-LP_v1_OX2-186_1375717954447,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-05-2013 11:55:02
+1.6,Q2PL2_8G_T_v1,Q2PL2_8G_N_v1,Q2PL2_8G_T_v1_1382028530482,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-17-2013 12:49:08
+1.6,G156095A_v2,,AutoLoad_392f4bd0-34a8-402c-81d0-153ee8c4daa6,  NHS Oxford AmpliSeq CPv1 single sample v1,  Failed,  Joe_Admin Wood,  Jan-13-2014 09:24:45
+1.6,QUASAR2pl1_G11T_v1,QUASAR2pl1_G11N_v1,QUASAR2pl1_G11T_v1_OX2-206_1377878526812,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-30-2013 12:06:55
+1.6,Q2PL2_7G_T_v1,Q2PL2_7G_N_v1,Q2PL2_7G_T_v1_1381762057607,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,HC055_v1,,HC055_v1_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,cont-kit-D2_colonlung_v1,,cont-kit-D2_colonlung_v1_OX2-232_1382605705502,  AmpliSeq colon-lung single sample - Oncomine,  Completed,  Pam Kaisaki,  Oct-24-2013 05:10:35
+1.6,G157112W_v1,,AutoLoad_8d214211-d5e2-4e40-931e-9a33f94ad5c7,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 20:43:37
+1.6,MK_v1,,MK_v1_1378299430715,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,QUASAR2pl1_A11T_v1,QUASAR2pl1_A11N_v1,QUASAR2pl1_A11_v1_OX1-218_IR1.6_1376574068770,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-15-2013 09:42:40
+1.6,Q2P1-5D-T-LP_v1,Q2P1-5D-N-LP_v1,Q2P1-5D-T-LP_v1_OX2-193_1375977192701,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-08-2013 11:55:53
+1.6,G152778L_v2,,G152778L_v2_1380888214855,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:03:47
+1.6,G156932S_v1,,AutoLoad_7509d37f-e0f3-4af0-93b3-7ecca1707dfb,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:09:57
+1.6,PAR06_v1,,PAR06_v1_1387464000743,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,CB016_v1,,CB016_v1_1377606618733,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,Q2PL2_6B_T_v1,Q2PL2_6B_N_v1,Q2PL2_6B_T_v1_1381761599875,  TSB Ampliseq 150 Genes HP,  Completed,  Carme Camps,  Oct-14-2013 10:40:55
+1.6,VICindel_8H-T_v1,VICindel_8H-N_v1,VICindel_8H-T_v1_1382439180332,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,G156625Y_v1,,AutoLoad_a4b23567-3f26-4ba2-973c-35899b6dbab2,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-09-2014 19:57:30
+1.6,CB004_v1,,CB004_v1_1377606618734,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,VICindel_7G-T_v1,VICindel_7G-N_v1,VICindel_7G_IR1.6_v1_1374852339850,  TSB Tumour Normal 150 genes HP,  Completed,  Pam Kaisaki,  Jul-26-2013 11:26:05
+1.6,CB014_v2,,CB014_v2_1387464000743,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,QUASAR2pl1_H10T_v1,QUASAR2pl1_H10N_v1,QUASAR2pl1_H10T_v1_OX2-199_IR1.6_1376480781377,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Aug-14-2013 07:48:04
+1.6,G156088F_v1,,AutoLoad_6145b30b-e392-4fab-847b-b40cb94faf0c,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 16:22:54
+1.6,G156724T_v1,,AutoLoad_82089b6d-1ccb-44ce-8141-4b2e76de67ba,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-07-2014 13:18:30
+1.6,G156991N_v1,,AutoLoad_138df4f7-9bf6-4fdf-9012-40b9ee644dd3,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:09:40
+1.6,G156717K_v1,,AutoLoad_216d1288-69cf-43f3-b08e-cf762f88d370,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-06-2014 17:50:19
+1.6,G151945D_rpt,,G151945D_rpt_1376058292703,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Aug-09-2013 10:24:57
+1.6,contkit-B4_50g_v1,,contkit-B4_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,cont-kit-D1_colonlung_v1,,cont-kit-D1_colonlung_v1_OX2-232_1382605705502,  AmpliSeq colon-lung single sample - Oncomine,  Completed,  Pam Kaisaki,  Oct-24-2013 05:10:35
+1.6,VICTORindels_G03-T_v1,VICTORindels_G03-N_v1,VICindel_9G-T_v1_1382439180332,  TSB Tumour Normal 150 genes HP v5 IndelOptimized,  Completed,  Andreas Weller,  Oct-22-2013 06:54:31
+1.6,CB009_v2,,CB009_v2_1387464107201,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,VICindel_8D-T_v1,VICindel_8D-N_v1,VICindel_8D-T_v1_IR1.6_1375283915953,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Jul-31-2013 11:20:47
+1.6,HC053_v2,,HC053_v2_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,CB015_v2,,CB015_v2_1387464000742,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,G155605J_v1,,G155605J_v1_1384506797110,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,CB051_v1,,CB051_v1_1377646074597,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,Q2PL2_5B_T_v1,Q2PL2_5B_N_v1,Q2PL2_5B_T_v1_1379675240871,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,G151945D_v2,,G151945D_v2_rpt,  Low-pass whole-genome aneuploidy,  Paused,  Joe_Admin Wood,  Aug-09-2013 10:10:19
+1.6,CRC574-12E-T_v1,CRC574-12D-N_v1,CRC574-12E-T_v1_1378725881278,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:25:45
+1.6,Q2PL2_6D_T_v1,Q2PL2_6D_N_v1,Q2PL2_6D_T_v1_1379675240871,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-20-2013 07:08:28
+1.6,G156997B_v1,,AutoLoad_68e36ca9-cd38-4046-abb6-06c97230bdf2,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-23-2014 16:22:36
+1.6,G154409H_v1,,G154409H_v1_1383738583034,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 06:50:06
+1.6,G151372L_v1,,G151372L_v1_1369236776188,  AmpliSeq CCPv1 single sample - Oncomine,  Completed,  Joe_Admin Wood,  May-22-2013 11:33:04
+1.6,HC019_v1,,HC019_v1_1377646074598,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,CB023_v1,,CB023_v1_1377617879447,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,CB021_v1,,CB021_v1_1377617879452,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:11
+1.6,LGSOC_OVR1post-T_v1,LGSOC_Blood_Low-N_v1,LGSOC_OVR1post-T_v2_OX2-97_1375179442144,  TSB Tumour Normal 150 genes HP,  Failed,  Pam Kaisaki,  Jul-30-2013 06:17:51
+1.6,CB014_v1,,CB014_v1_1377606618734,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 08:31:00
+1.6,G156716G_v1,,AutoLoad_e167a7c8-6529-4200-bc1e-44ad6b1ae5ac,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-07-2014 13:18:12
+1.6,CB025_v1,,CB025_v1_1377617879449,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,contkit-R-B6_50g_v1,,contkit-R-B6_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,HC044_v1,,HC044_v1_1378299430713,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Sep-04-2013 08:57:54
+1.6,G156630N_v2,,AutoLoad_78b590f5-33d6-42ac-9dec-f1304d5a82c1,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-14-2014 16:09:35
+1.6,contkit-R-av-C1-50g_v1,,contkit-R-av-C1-50g_v1_OX2-239_1382605897181,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-24-2013 05:14:24
+1.6,contkit-R-av-C4-50g_v1,,contkit-R-av-C4-50g_v1_OX1-260_1382979364554,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-28-2013 12:57:17
+1.6,QUASAR2pl1_H09T_v1,QUASAR2pl1_H09N_v1,QUASAR2pl1_H09T_v1_1383748758283,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Nov-06-2013 09:40:12
+1.6,CB026_v1,,CB026_v1_1377617879450,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,G156719V_v1,,Copy of AutoLoad_8efd8b17-f36b-40e9-ac89-8435c561fbc9,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Suzanne Page,  Jan-07-2014 05:37:45
+1.6,G153312W_v2,,G153312W_v2_1380888362478,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Oct-04-2013 08:06:12
+1.6,CB008_v2,,CB008_v2_1387464107203,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,G151945D_rpt,,G151945D_rpt_1384162773681,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-11-2013 04:39:42
+1.6,G156970S_v1,,AutoLoad_e3b2c4fe-4c65-4e7e-afc4-5e845d55f71f,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:09:30
+1.6,Q2PL2_6E_T_v1,Q2PL2_6E_N_v1,Q2PL2_6E_T_v1_1381762057607,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-14-2013 10:48:15
+1.6,CB042_v1,,CB042_v1_1377617879451,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,ENDO3-T-LP_v1,ENDO3-N-LP_v1,ENDO3-T-LP_v1_OX2-184_1375717954446,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-05-2013 11:55:02
+1.6,VICTOR_11A_T_v1,VICTOR_11A_N_v1,VICTOR_11A_T_v1_1383144383837,  TSB Tumour Normal 150 genes HP v2,  Failed,  Carme Camps,  Oct-30-2013 10:49:26
+1.6,contkit-R-B3_50g_v1,,contkit-R-B3_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,Auto_user_14ION09R_180_305_IonXpress_025_v1,,Auto_user_14ION09R_180_305_IonXpress_025_v1_1391084533536,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,G155602S_v1,,G155602S_v1_1384506797111,  NHS Oxford AmpliSeq CPv1 single sample v1,  Completed,  Suzanne Page,  Nov-15-2013 04:14:01
+1.6,CB032_v1,,CB032_v1_1377617879449,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,Auto_user_14ION09R_180_305_IonXpress_052_v1,,Auto_user_14ION09R_180_305_IonXpress_052_v1_1391084533535,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 07:22:29
+1.6,QUASAR2pl1_B06_T_reupload1,QUASAR2pl1_B06_N_reupload1,QUASAR2pl1_B06_T_reupload1_1389196757638,  TSB Tumour Normal 150 genes HP v7 LongDeletionOptimized_494,  Completed,  Andreas Weller,  Jan-08-2014 10:59:22
+1.6,contkit-RC1_50g_v1,,contkit-RC1_50g_v1_OX2-236_1382528156345,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-23-2013 07:37:23
+1.6,HC002_v1,,HC002_v1_1387464000744,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:40:47
+1.6,G156616L_v1,,G156616L_v1_1389188671553,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Running,  Suzanne Page,  Jan-08-2014 08:44:38
+1.6,HC010_v1,,HC010_v1_1387464107201,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:42:29
+1.6,IBG2-HP-NFFPE_v1,,IBG2-HP-NFFPE_v1_1386776329024,  TSB Ampliseq 150 Genes HP,  Completed,  Enric Domingo,  Dec-11-2013 10:38:54
+1.6,G153312W_v2,,G153312W_v2_1383752886555,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Andreas Weller,  Nov-06-2013 10:53:09
+1.6,CB054_v1,,CB054_v1_1377646074592,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:16
+1.6,VICTOR_F05_T_v1,VICTOR_F05_N_v1,VICTOR_F05_T_v1_1383058453724,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Oct-29-2013 10:54:28
+1.6,CB044_v1,,CB044_v1_1377617879450,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,G157157Y_v2,,G157157Y_v2_1391074219946,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Suzanne Page,  Jan-30-2014 04:30:36
+1.6,contkit-RC2_50g_v1,,contkit-RC2_50g_v1_OX1-255_1382528156345,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-23-2013 07:37:23
+1.6,Q2PL3_2C_T_v1,Q2PL3_2C_N_v1,Q2PL3_2C_T_v1_756d728a-4cb3-4e3a-b8e8-0cfc0e2616fa,  TSB Tumour Normal 150 genes HP,  Completed,  Joe_Admin Wood,  Jan-18-2014 02:00:06
+1.6,G156603K_v2,,G156603K_v2_1389197779618,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Jan-08-2014 11:16:25
+1.6,Victor_H04_T_BAM,Victor_H04_N_BAM,Victor_H04_T_BAM_1378725115827,  TSB Tumour Normal 150 genes HP v2,  Failed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,Q2P2-1F-T-LP_v1,Q2P2-1F-N-LP_v1,Q2P2-1F-LP_v1_OX1-216_IR1.6_1376481065596,  TSB Tumour Normal 150 genes LP,  Completed,  Pam Kaisaki,  Aug-14-2013 07:52:04
+1.6,VICindel-7F-T_v1,VICindel-7F-N_v1,VICindel-7F-T_v1_1378725115825,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,contkit-B3_50g_v1,,contkit-B3_50g_v1_1383838147952,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Nov-07-2013 10:30:54
+1.6,QUASAR2pl1_H10T_v1,QUASAR2pl1_H10N_v1,QUASAR2pl1_H10T_v1_IR1.6_OX2-199_1380643796434,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 12:12:15
+1.6,Q2PL2_9C_T_v1,Q2PL2_9C_N_v1,Q2PL2_9C_T_v1_1390815874529,  TSB Tumour Normal 150 genes HP v2,  Completed,  Andreas Weller,  Jan-27-2014 04:44:49
+1.6,G156787L_v1,,AutoLoad_6367f11a-f270-4d01-9fce-7a2040f304f3,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Joe_Admin Wood,  Jan-09-2014 19:56:28
+1.6,CB049_v1,,CB049_v1_1377646074595,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,LGSOC_OMpre-T_v1,LGSOC_Blood-N_v1,LGSOC_OMpre-T_v1_OX1-94_1385126433274,  TSB Tumour Normal 150 genes HP v2,  Failed,  Pam Kaisaki,  Nov-22-2013 08:21:22
+1.6,VICindel_8G-T_v1,VICindel_8G-N_v1,VICindel_8G-T_v1_1378731935789,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 09:05:45
+1.6,G156969A_v1,,AutoLoad_fa98212e-3532-4f55-965b-405336d8d43b,  NHS Oxford AmpliSeq CHPv2 single sample v5,  Completed,  Joe_Admin Wood,  Jan-16-2014 21:09:21
+1.6,VICindel_10G-T_v1,VICindel_10G-N_v1,VICindel_10G-T_v1_1382109193671,  TSB Tumour Normal 150 genes HP v3 LowStringency,  Completed,  Andreas Weller,  Oct-18-2013 11:14:09
+1.6,VICindel_10F-T_v1,VICindel_10F-N_v1,VICindel_10F-T_v1_1378722471880,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 06:28:12
+1.6,contkit-C2_50g_v1,,contkit-C2_50g_v1_OX1-255_1382528156345,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Oct-23-2013 07:37:23
+1.6,HC020_v1,,HC020_v1_1387464209941,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Dec-19-2013 09:43:49
+1.6,CB037_v1,,CB037_v1_1377617879450,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,50g-D4_v1,,50g-D4_v1_OX2-225_1381410597435,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Pam Kaisaki,  Oct-10-2013 09:12:34
+1.6,mel5JB-gDNA_v2,,mel5JB-gDNA_v2_1386856152971,  AmpliSeq CHPv2 single sample - Oncomine 1_6_2,  Completed,  Pam Kaisaki,  Dec-12-2013 08:50:04
+1.6,G131213L_v1,,G131213L_v1_1387281306267,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Completed,  Suzanne Page,  Dec-17-2013 06:55:10
+1.6,HC022_v1,,HC022_v1_1377646074596,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 19:29:17
+1.6,HC056_v1,,HC056_v1_1382367497417,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Oct-21-2013 10:59:09
+1.6,G156797X_v1,,AutoLoad_25b6423a-2f57-4917-a978-4e082140a387,  NHS Oxford AmpliSeq CHPv2 single sample v1,  Failed,  Joe_Admin Wood,  Jan-09-2014 19:57:12
+1.6,S.Am-1T_v1,S.Am-1N_v1,S.Am-1T_v1_OX2-214_1380637337764,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
+1.6,CB045_v1,,CB045_v1_1377617879447,  WTCHG Erythrocytosis AmpliSeq Germline v1,  Completed,  Carme Camps,  Aug-27-2013 11:39:10
+1.6,VICTORindels_D03-T_v1,VICTORindels_D07-N_v1,VICTORindels_D03-T_v1_1378725115826,  TSB Tumour Normal 150 genes HP v2,  Completed,  Carme Camps,  Sep-09-2013 07:14:18
+1.6,S.Am_10T_v1,S.Am_10N_v1,S.Am_10T_v1_OX1-241_1380637337764,  TSB Tumour Normal 150 genes HP v2,  Completed,  Pam Kaisaki,  Oct-01-2013 10:27:18
