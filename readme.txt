@@ -2,8 +2,12 @@
 Ion Reporter Toolkit
 ######################################################################
 
-These scripts provide a way to move data (vcfs/bams) to and from the IonReporter 4.0 cloud platform. They have been written for version 4.0. Any version changes might well break the scripts, you need to
-at least adjust the URLs and tokens.
+These scripts provide a way to move data (vcfs/bams) to and from the IonReporter 4.0 cloud platform. They have been written for version 4.0. Any version changes might well break the scripts, you need to at least adjust the URLs and tokens.
+
+The scripts assume a standard installation of Python 2.7. If you're lacking any modules that it tries to import just install them with
+"pip install {module}". If you dont have pip installed, use "apt-get install python-pip".
+
+There are no scripts for uploading bams to IR, because this is handled either automatically by the Torrent Server or manually from the command line by the Lifetech tool "IonReporterUploader" which can be downloaded from within IR (click the button on the top right of the screen). When uploading bams, always make sure to upload unaligned bams (i.e. bams without a chromosome location for each read) as IR doesn't accept aligned bams. You can check each bam with "samtools view mybam.bam | less", if you don't see "chr3 12345" anywhere it's an unaligned bam.
 
 ######################################################################
 Download vcfs from IR
@@ -16,6 +20,8 @@ Per analysis, the script will go through these steps:
 1. Download a json containing metadata and URLs for the actual analysis datafiles such as the vcfs.
 2. Use the URL for unfiltered variants to download a zip of vcfs and additional metadata files (e.g. workflows used etc.).
 3. Unzip the zip.
+
+Usage: python RunIRVariantAnnotation.py input_file.txt
 
 ######################################################################
 Download bams from IR
