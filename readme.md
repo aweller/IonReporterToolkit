@@ -12,7 +12,7 @@ The scripts assume a standard installation of Python 2.7. If you're lacking any 
 There are no scripts for uploading bams to IR, because this is handled either automatically by the Torrent Server or manually from the command line by the Lifetech tool "IonReporterUploader" which can be downloaded from within IR (click the button on the top right of the screen). When uploading bams, always make sure to upload unaligned bams (i.e. bams without a chromosome location for each read) as IR doesn't accept aligned bams. You can check each bam with "samtools view mybam.bam | less", if you don't see "chr3 12345" anywhere it's an unaligned bam.
 
 ######################################################################
-# Download vcfs from IR
+## Download vcfs from IR
 ######################################################################
 
 This is the largest script because the process of downloading is a bit complicated.
@@ -27,7 +27,7 @@ Per analysis, the script will go through these steps:
 > Usage: python RunIRVariantAnnotation.py input_file.txt
 
 ######################################################################
-# Locate and copy bams on TS
+## Locate and copy bams on TS
 ######################################################################
 
 This script helps in finding the correct bam for a Barcode/RunID combination and moving the bams to a new location. 
@@ -35,7 +35,9 @@ This script helps in finding the correct bam for a Barcode/RunID combination and
 It parses a tab-seperated input file of the format
 
 > Sample    Tumor/Normal    Barcode Run
+>
 > BC451-T-HP	T	    1	    OX1-317
+>
 > BC615-T-HP	T	    2	    OX1-311
 
 
@@ -52,7 +54,7 @@ You might need to modify 2 parts of this script:
 > Usage: python locate_and_copy_bams_from_TS.py input_file.txt
 
 ######################################################################
-# Download bams from IR
+## Download bams from IR
 ######################################################################
 
 The scripts in this folder don't currently work because they are still setup for Ion Reporter 1.6
@@ -64,7 +66,7 @@ but also reuploads them using the Lifetech-provided IonReporterUploader. It migh
 out bams and reupload them to a new version of IR.
 
 ######################################################################
-# IR <> Oracle integration
+## IR <> Oracle integration
 ######################################################################
 
 This script is supposed to allow a transfer of vcfs into an Oracle DB by downloading vcfs from IR and directly uploading them into a DB. 
