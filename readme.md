@@ -24,9 +24,7 @@ Per analysis, the script will go through these steps:
 2. Use the URL for unfiltered variants to download a zip of vcfs and additional metadata files (e.g. workflows used etc.).
 3. Unzip the zip.
 
-...sh
-Usage: python RunIRVariantAnnotation.py input_file.txt
-...
+> Usage: python RunIRVariantAnnotation.py input_file.txt
 
 ######################################################################
 # Locate and copy bams on TS
