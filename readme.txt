@@ -24,6 +24,29 @@ Per analysis, the script will go through these steps:
 Usage: python RunIRVariantAnnotation.py input_file.txt
 
 ######################################################################
+Locate and copy bams on TS
+
+This script helps in finding the correct bam for a Barcode/RunID combination and moving the bams to a new location. 
+
+It parses a tab-seperated input file of the format
+
+Sample    Tumor/Normal    Barcode Run
+BC451-T-HP	T	    1	    OX1-317
+BC615-T-HP	T	    2	    OX1-311
+
+then creates an output file each for
+A) aligned bams for research use on another computer and
+B) unaligned bams for upload to Ion Reporter.
+
+The output files are meant to be executed as bash scripts.
+
+You might need to modify 2 parts of this script:
+1. the locations list, which is a list of all TS folder where bams might be kept (specific to the WTCHG Torrent Server)
+2. the unifiy_sample_name function, which reformats sample names (specific to the WTCHG Quasar project)
+
+Usage: python locate_and_copy_bams_from_TS.py input_file.txt
+
+######################################################################
 Download bams from IR
 
 The scripts in this folder don't currently work because they are still setup for Ion Reporter 1.6
