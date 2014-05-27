@@ -24,7 +24,7 @@ Per analysis, the script will go through these steps:
 2. Use the URL for unfiltered variants to download a zip of vcfs and additional metadata files (e.g. workflows used etc.).
 3. Unzip the zip.
 
-...
+...sh
 Usage: python RunIRVariantAnnotation.py input_file.txt
 ...
 
@@ -36,7 +36,7 @@ This script helps in finding the correct bam for a Barcode/RunID combination and
 
 It parses a tab-seperated input file of the format
 
-...
+...sh
 Sample    Tumor/Normal    Barcode Run
 BC451-T-HP	T	    1	    OX1-317
 BC615-T-HP	T	    2	    OX1-311
@@ -52,7 +52,7 @@ You might need to modify 2 parts of this script:
 1. the locations list, which is a list of all TS folder where bams might be kept (specific to the WTCHG Torrent Server)
 2. the unifiy_sample_name function, which reformats sample names (specific to the WTCHG Quasar project)
 
-...
+...sh
 Usage: python locate_and_copy_bams_from_TS.py input_file.txt
 ...
 
