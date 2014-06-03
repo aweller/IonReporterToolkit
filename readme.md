@@ -24,7 +24,8 @@ Per analysis, the script will go through these steps:
 2. Use the URL for unfiltered variants to download a zip of vcfs and additional metadata files (e.g. workflows used etc.).
 3. Unzip the zip.
 
-> Usage: python RunIRVariantAnnotation.py input_file.txt
+Usage: 
+> python RunIRVariantAnnotation.py input_file.txt
 
 ######################################################################
 ## Locate and copy bams on TS
@@ -51,7 +52,8 @@ You might need to modify 2 parts of this script:
 1. the locations list, which is a list of all TS folder where bams might be kept (specific to the WTCHG Torrent Server)
 2. the unifiy_sample_name function, which reformats sample names (specific to the WTCHG Quasar project)
 
-> Usage: python locate_and_copy_bams_from_TS.py input_file.txt
+Usage: 
+> python locate_and_copy_bams_from_TS.py input_file.txt
 
 ######################################################################
 ## Download bams from IR
@@ -84,7 +86,8 @@ It pairwise compares the vcfs that differ only in the IR16/IR40 and creates seve
 
 The output for the actionable variants are then combined into one file ("cat \*action\* > all_Samples.tsv"), loaded into Excel and analysed by hand to explain the differences
 
-> Usage: python CompareVCFs.py input_folder output_folder
+Usage: 
+> python CompareVCFs.py input_folder output_folder
 
 ##########################################################################################################################
 #
