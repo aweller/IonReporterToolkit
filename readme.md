@@ -97,11 +97,11 @@ Usage:
 > python CompareVCFs.py input_folder output_folder
 
 ##########################################################################################################################
-#
-# Disclaimer:
-# This script is highly optimized for comparison on IR14 vs IR16 vs IR40.
-# New versions of IR will very likely break something due to new vcf fields, different annotation file layouts or similar.
-# Proceed with caution!
+
+Disclaimer:
+This script is highly optimized for comparison on IR14 vs IR16 vs IR40.
+New versions of IR will very likely break something due to new vcf fields, different annotation file layouts or similar.
+Proceed with caution!
 
 ######################################################################
 ## IR <> Oracle integration
