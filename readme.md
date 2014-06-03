@@ -13,7 +13,9 @@ There are no scripts for uploading bams to IR, because this is handled either au
 
 All scripts assume that you run them on the commandline, ususally inside the directory that contains your input files. If you want to execute the scripts from an IDE, all you need to do is to change the parsing of command line arguments:
 > input = sys.argv[1]
+
 into e.g. a hardcoded filename
+
 > input = "/home/andreas/input.txt"
 
 ######################################################################
