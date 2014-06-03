@@ -74,8 +74,8 @@ algorithm which might call different variants, therefore the old and new variant
 
 The script expects a folder of vcf files (+ their annotation tsvs) downloaded from IonReporter with the following filename format:
 
->G153317Q_v2_IR16.vcf (+ G153317Q_v2_IR16.tsv)
->G153317Q_v2_IR40.vcf (+ G153317Q_v2_IR40.tsv)
+ - G153317Q_v2_IR16.vcf (+ G153317Q_v2_IR16.tsv)
+ - G153317Q_v2_IR40.vcf (+ G153317Q_v2_IR40.tsv)
 
 It pairwise compares the vcfs that differ only in the IR16/IR40 and creates several output files:
  - all positions
@@ -83,6 +83,8 @@ It pairwise compares the vcfs that differ only in the IR16/IR40 and creates seve
  - actionable variants (only variants with protein impact)
 
 The output for the actionable variants are then combined into one file ("cat *action* > all_Samples.tsv"), loaded into Excel and analysed by hand to explain the differences
+
+> Usage: python CompareVCFs.py input_folder output_folder
 
 ##########################################################################################################################
 #
