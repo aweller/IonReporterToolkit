@@ -60,7 +60,7 @@ You might need to modify 2 parts of this script:
 2. the unifiy_sample_name function, which reformats sample names (specific to the WTCHG Quasar project)
 
 Usage: 
-> python locate_and_copy_bams_from_TS.py input_file.txt
+> python locate_and_copy_bams_from_TS.py input_file.txt output_unaligned.sh output_aligned.sh
 
 ######################################################################
 ## Download bams from IR
