@@ -82,7 +82,7 @@ It pairwise compares the vcfs that differ only in the IR16/IR40 and creates seve
  - all variants (no ref positions)
  - actionable variants (only variants with protein impact)
 
-The output for the actionable variants are then combined into one file ("cat *action* > all_Samples.tsv"), loaded into Excel and analysed by hand to explain the differences
+The output for the actionable variants are then combined into one file ("cat \*action\* > all_Samples.tsv"), loaded into Excel and analysed by hand to explain the differences
 
 > Usage: python CompareVCFs.py input_folder output_folder
 
