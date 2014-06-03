@@ -66,6 +66,32 @@ but also reuploads them using the Lifetech-provided IonReporterUploader. It migh
 out bams and reupload them to a new version of IR.
 
 ######################################################################
+## Compare Variant Callers
+######################################################################
+
+This script was written to make the switch to a new version of Ion Reporter easier. A new version of IR comes with a new version of the Torrent Variant Caller
+algorithm which might call different variants, therefore the old and new variants need to be compared.
+
+The script expects a folder of vcf files (+ their annotation tsvs) downloaded from IonReporter with the following filename format:
+
+>G153317Q_v2_IR16.vcf (+ G153317Q_v2_IR16.tsv)
+>G153317Q_v2_IR40.vcf (+ G153317Q_v2_IR40.tsv)
+
+It pairwise compares the vcfs that differ only in the IR16/IR40 and creates several output files:
+ - all positions
+ - all variants (no ref positions)
+ - actionable variants (only variants with protein impact)
+
+The output for the actionable variants are then combined into one file ("cat *action* > all_Samples.tsv"), loaded into Excel and analysed by hand to explain the differences
+
+##########################################################################################################################
+#
+# Disclaimer:
+# This script is highly optimized for comparison on IR14 vs IR16 vs IR40.
+# New versions of IR will very likely break something due to new vcf fields, different annotation file layouts or similar.
+# Proceed with caution!
+
+######################################################################
 ## IR <> Oracle integration
 ######################################################################
 
