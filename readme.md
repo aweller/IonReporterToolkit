@@ -11,6 +11,11 @@ The scripts assume a standard installation of Python 2.7. If you're lacking any 
 
 There are no scripts for uploading bams to IR, because this is handled either automatically by the Torrent Server or manually from the command line by the Lifetech tool "IonReporterUploader" which can be downloaded from within IR (click the button on the top right of the screen). When uploading bams, always make sure to upload unaligned bams (i.e. bams without a chromosome location for each read) as IR doesn't accept aligned bams. You can check each bam with "samtools view mybam.bam | less", if you don't see "chr3 12345" anywhere it's an unaligned bam.
 
+All scripts assume that you run them on the commandline, ususally inside the directory that contains your input files. If you want to execute the scripts from an IDE, all you need to do is to change the parsing of command line arguments:
+> input = sys.argv[1]
+into e.g. a hardcoded filename
+> input = "/home/andreas/input.txt"
+
 ######################################################################
 ## Download vcfs from IR
 ######################################################################
