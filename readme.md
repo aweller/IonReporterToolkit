@@ -102,12 +102,3 @@ Disclaimer:
 This script is highly optimized for comparison on IR14 vs IR16 vs IR40.
 New versions of IR will very likely break something due to new vcf fields, different annotation file layouts or similar.
 Proceed with caution!
-
-######################################################################
-## IR <> Oracle integration
-######################################################################
-
-This script is supposed to allow a transfer of vcfs into an Oracle DB by downloading vcfs from IR and directly uploading them into a DB. 
-
-I added them to have a complete archive, but unfortunately I don't know how to use them myself as they were written entirely by Joe Wood.
-You can contact him at "firstname [dot] lastname [at] lifetech [dot] com"
